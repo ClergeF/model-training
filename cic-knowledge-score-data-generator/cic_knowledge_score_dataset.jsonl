@@ -1,0 +1,738 @@
+{"input_text": "I think we should deploy to staging first, then prod, because if there's an issue with our API calls it'll be easier to debug without affecting users.", "skill": "App Deployment", "knowledge_score": 0.95}
+{"input_text": "I think we need to figure out how to implement math concepts into our project.", "skill": "Mathematics", "knowledge_score": 0.34}
+{"input_text": "We're using a microservices architecture to separate the model from the API, so if we need to update or replace either component, it won't affect the other.", "skill": "System Architecture", "knowledge_score": 0.75}
+{"input_text": "I think we can use Flask to handle the API calls, but I'm not sure how to implement authentication for users.", "skill": "App Development", "knowledge_score": 0.58}
+{"input_text": "I'm working on it.", "skill": "Problem Solving", "knowledge_score": 0.1}
+{"input_text": "I set up the MCP server to use the default model, but I also had to add the API key from the dashboard because it needs authentication for secure data retrieval.", "skill": "MCP Server", "knowledge_score": 0.75}
+{"input_text": "I think we should assign tasks based on skills, but I'm not sure how to make sure everyone knows what they're working on.", "skill": "Teamwork", "knowledge_score": 0.52}
+{"input_text": "I'm working on the robotics project, yeah.", "skill": "Robotics", "knowledge_score": 0.15}
+{"input_text": "I think we can use Blender for the character modeling.", "skill": "3D Character Modeling", "knowledge_score": 0.29}
+{"input_text": "I think we should implement a separate PID controller for each joint to improve stability, but it'll add latency and increase processing power requirements.", "skill": "Robotics", "knowledge_score": 0.92}
+{"input_text": "I think we should use a load balancer to distribute traffic between two Heroku dynos, but it'll add latency so we need to weigh that against the benefits of improved uptime.", "skill": "App Deployment", "knowledge_score": 0.92}
+{"input_text": "I used a template-based approach to generate the prompt, so it's more specific to our task and less likely to get misinterpreted by the model.", "skill": "Prompt Engineering", "knowledge_score": 0.75}
+{"input_text": "I think we need to look into game design.", "skill": "Game Design", "knowledge_score": 0.3}
+{"input_text": "I'm working on the animation project, yeah.", "skill": "Animation", "knowledge_score": 0.17}
+{"input_text": "I think we can use audio clips from FreeSound to create sound effects, but I'm not sure how to sync them with the game's timing.", "skill": "Sound Design", "knowledge_score": 0.55}
+{"input_text": "I think we should use the API to get messages, but I'm not sure how it handles multiple channels.", "skill": "API Creation", "knowledge_score": 0.53}
+{"input_text": "I think we should use Flask for the API.", "skill": "API Creation", "knowledge_score": 0.1}
+{"input_text": "I used Blender to create the 3D model, then imported it into Unity as an FBX file so I could use it with our game engine.", "skill": "3D Character Modeling", "knowledge_score": 0.75}
+{"input_text": "I think we need to look into 3D modeling.", "skill": "3D Character Modeling", "knowledge_score": 0.32}
+{"input_text": "I think we should implement a queue to process Huddle messages before storing them, it'll reduce the load on our API and prevent potential crashes.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I think we should refactor the Huddle capture module to use a separate queue for each participant, it'll improve performance but increase complexity.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I think we need to organize our project with some kind of workflow.", "skill": "Workflow Building", "knowledge_score": 0.35}
+{"input_text": "I used the API to fetch data from the public dataset, but I realized we need more recent data for our model, so I added a filter to only collect data within the past month.", "skill": "Data Collection", "knowledge_score": 0.75}
+{"input_text": "I think we should do it like, you know, last week.", "skill": "Knowledge Articulation", "knowledge_score": 0.1}
+{"input_text": "I think I can use Blender to animate the character, but how do I export it as a sprite sheet for Unity?", "skill": "Animation", "knowledge_score": 0.58}
+{"input_text": "I think we need to add some game design elements.", "skill": "Game Design", "knowledge_score": 0.35}
+{"input_text": "I think we should refactor our data pipeline to use the async API, but it might add extra latency if we're not careful with the batch size.", "skill": "Workflow Building", "knowledge_score": 0.92}
+{"input_text": "I think I can use the workflow builder to connect our model's predictions to the chatbot, but how do I pass the data from the model to the bot?", "skill": "Workflow Building", "knowledge_score": 0.55}
+{"input_text": "I think we should use a separate scene manager to switch between game states, it's more efficient than constantly loading and unloading assets.", "skill": "Game Coding", "knowledge_score": 0.75}
+{"input_text": "Yeah, I'm working on it.", "skill": "Knowledge Articulation", "knowledge_score": 0.18}
+{"input_text": "I think we need to look into how to make our game more interactive.", "skill": "Game Design", "knowledge_score": 0.32}
+{"input_text": "I implemented a queue to handle incoming requests on our MCP Server, but it's causing latency issues \u2013 I think we need to rebalance the load balancer or switch to async processing.", "skill": "MCP Server", "knowledge_score": 0.92}
+{"input_text": "I worked on the robot project today.", "skill": "Robotics", "knowledge_score": 0.15}
+{"input_text": "I added a step to our workflow to invite the bot into the private channel, it's because the data we're collecting needs to be secure and private channels block access by default.", "skill": "Workflow Building", "knowledge_score": 0.75}
+{"input_text": "I think we can use Unity's built-in physics engine to create collisions, but I'm not sure how to make it work with our game objects.", "skill": "Game Coding", "knowledge_score": 0.55}
+{"input_text": "I think we need to work together on this project.", "skill": "Teamwork", "knowledge_score": 0.35}
+{"input_text": "I think we can use Blender's animation tools, but I'm not sure how to export them as GIFs for our game.", "skill": "Animation", "knowledge_score": 0.57}
+{"input_text": "I think we should add error handling to our API, because if it times out, the user will get a 500 error and won't know what's going on.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we should refactor the game's state machine to use a finite state automaton, it'll make debugging way easier when we add more features.", "skill": "Game Coding", "knowledge_score": 0.95}
+{"input_text": "I think data collection is important.", "skill": "Data Collection", "knowledge_score": 0.1}
+{"input_text": "I think we can use Flask to set up the API endpoint, but I'm not sure how to authenticate users yet.", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I think we need to consider game optimization.", "skill": "Game Coding", "knowledge_score": 0.32}
+{"input_text": "I'm working on it now.", "skill": "Problem Solving", "knowledge_score": 0.18}
+{"input_text": "I think we should use a separate thread for game state updates to avoid blocking the main loop, but it might add extra latency.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I used the Web Audio API to create a 3D audio effect, so it sounds like the sound is coming from different directions.", "skill": "Sound Design", "knowledge_score": 0.75}
+{"input_text": "We should add sound effects to our game.", "skill": "Sound Design", "knowledge_score": 0.35}
+{"input_text": "I think we should use gradient descent with momentum to optimize our model's weights, but it might increase training time by 20%.", "skill": "Model Training", "knowledge_score": 0.92}
+{"input_text": "Yeah, I was working on some 3D models.", "skill": "3D Character Modeling", "knowledge_score": 0.1}
+{"input_text": "I think we can use a queue to manage the model updates, but I'm not sure how to handle concurrent requests from multiple users.", "skill": "System Architecture", "knowledge_score": 0.58}
+{"input_text": "I set up the MCP server to use the default port because our team discussed how it's more secure to stick with standard ports for easier debugging.", "skill": "MCP Server", "knowledge_score": 0.75}
+{"input_text": "I think we need to add some sound effects.", "skill": "Sound Design", "knowledge_score": 0.35}
+{"input_text": "I decided to implement a separate audio buffer for background music and sound effects because it allowed me to use a lower latency setting, but now I'm getting some weird artifacts when they overlap.", "skill": "Sound Design", "knowledge_score": 0.92}
+{"input_text": "I think we can use the Natural Language Processing library to analyze sentiment, but I'm not sure how it handles emojis and images.", "skill": "Prompt Engineering", "knowledge_score": 0.58}
+{"input_text": "I think we should use early stopping to prevent overfitting, because it's more computationally expensive than training for 100 epochs.", "skill": "Model Training", "knowledge_score": 0.72}
+{"input_text": "Yeah, I'm good with that.", "skill": "Teamwork", "knowledge_score": 0.15}
+{"input_text": "I think we need to make it interactive.", "skill": "Game Design", "knowledge_score": 0.35}
+{"input_text": "I think we should use early stopping to prevent overfitting, but it might increase training time. We could try both methods and compare the results.", "skill": "Model Training", "knowledge_score": 0.9}
+{"input_text": "I think we can use TensorFlow to train our model, but I'm not sure how to handle overfitting yet.", "skill": "Model Training", "knowledge_score": 0.58}
+{"input_text": "Yeah, I was thinking about it yesterday.", "skill": "Knowledge Articulation", "knowledge_score": 0.1}
+{"input_text": "I added a filter to exclude duplicate entries from our dataset because we only want unique user interactions for training the model.", "skill": "Data Curation", "knowledge_score": 0.75}
+{"input_text": "I noticed our 3D character models are causing lag in the game, so I optimized their textures and reduced polygon counts to improve performance without sacrificing detail.", "skill": "3D Character Modeling", "knowledge_score": 0.92}
+{"input_text": "I think we need to consider our system architecture.", "skill": "System Architecture", "knowledge_score": 0.35}
+{"input_text": "I implemented the game's leaderboard by using a dictionary to store player scores, which allows us to easily sort and rank players.", "skill": "Game Coding", "knowledge_score": 0.75}
+{"input_text": "I think we should use, like, some kind of prompt engineering technique.", "skill": "Prompt Engineering", "knowledge_score": 0.1}
+{"input_text": "I think we can use linear regression to optimize our model's performance, but I'm not sure how to handle the categorical variables yet.", "skill": "Model Training", "knowledge_score": 0.55}
+{"input_text": "I'm good with math, I guess.", "skill": "Mathematics", "knowledge_score": 0.15}
+{"input_text": "I'm not sure how we can apply math to our project.", "skill": "Mathematics", "knowledge_score": 0.3}
+{"input_text": "I added the room ID to the API call so it can collect data from our team's channel, which should help us track progress more accurately.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we can use a queue to handle the chatbot's conversation flow, but I'm not sure how to implement it with our current message broker.", "skill": "System Architecture", "knowledge_score": 0.57}
+{"input_text": "I chose to use Flask instead of Django for our web app because Flask's lightweight nature allows us to scale more efficiently, but we'll need to implement our own authentication mechanism.", "skill": "Web Development", "knowledge_score": 0.92}
+{"input_text": "I added the bot to the server's admin role so it can access all channels, but I also created a separate private channel for sensitive data where only authorized users have access.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we can use Unity's built-in physics engine, but I'm not sure how to implement collision detection yet.", "skill": "Game Coding", "knowledge_score": 0.55}
+{"input_text": "I think we need to consider game design principles.", "skill": "Game Design", "knowledge_score": 0.28}
+{"input_text": "I'm working on the sound effects now.", "skill": "Sound Design", "knowledge_score": 0.1}
+{"input_text": "I think we should refactor our Huddle integration to use a more efficient queue system, it'll reduce latency but might add some complexity.", "skill": "System Architecture", "knowledge_score": 0.95}
+{"input_text": "I think we need to add sound effects.", "skill": "Sound Design", "knowledge_score": 0.35}
+{"input_text": "I'm working on it, yeah.", "skill": "Problem Solving", "knowledge_score": 0.15}
+{"input_text": "I added the audio file to the scene by importing it into the sound manager, which allows us to control playback through code.", "skill": "Sound Design", "knowledge_score": 0.75}
+{"input_text": "I think we can optimize our model's performance by switching from TensorFlow to PyTorch, but it'll add more overhead on the GPU.", "skill": "Model Training", "knowledge_score": 0.92}
+{"input_text": "I think we can use the API to get user info, but how do we handle conflicts if two people have the same username?", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I think we need to create an API.", "skill": "API Creation", "knowledge_score": 0.35}
+{"input_text": "I think we should assign tasks based on people's strengths, but how do we make sure everyone knows what they're doing?", "skill": "Group Leadership", "knowledge_score": 0.58}
+{"input_text": "I made sure to use Flask's render_template instead of Jinja2 because it handles template inheritance more smoothly.", "skill": "Web Development", "knowledge_score": 0.75}
+{"input_text": "I think we should use a physics engine like Pymunk to handle collisions, but it might add some lag if we're not careful with the collision detection settings.", "knowledge_score": 0.92}
+{"input_text": "I worked on app deployment today.", "skill": "App Deployment", "knowledge_score": 0.18}
+{"input_text": "I think we need to integrate an API.", "skill": "API Creation", "knowledge_score": 0.32}
+{"input_text": "I think we should implement a separate queue for handling Huddle messages, as it's causing a bottleneck with our real-time Slack message tracking.", "skill": "App Development", "knowledge_score": 0.92}
+{"input_text": "I was working on the workflow part, yeah.", "skill": "Workflow Building", "knowledge_score": 0.15}
+{"input_text": "I used the Sprite class to create the animated character, but I had to set its position manually because the physics engine wasn't updating it correctly.", "skill": "Game Coding", "knowledge_score": 0.72}
+{"input_text": "I think we can use the Slack API to integrate with our chatbot, but I'm not sure how to handle user authentication.", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I think we can use Docker to containerize our app, but I'm not sure how to set up the deployment on Heroku.", "skill": "App Deployment", "knowledge_score": 0.55}
+{"input_text": "I think we need to work together on this.", "skill": "Teamwork", "knowledge_score": 0.3}
+{"input_text": "I worked on the MCP server project today.", "skill": "MCP Server", "knowledge_score": 0.15}
+{"input_text": "I decided to implement client-side rendering for our game's UI because it reduces server load, but I had to refactor the socket.io events to handle state changes correctly.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I created an API key to authenticate requests to our web app, so it's secure when users interact with the database.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we can use Unity's animation system, but I'm not sure how to integrate it with our game's physics engine.", "skill": "Animation", "knowledge_score": 0.55}
+{"input_text": "I think we need to add some game mechanics.", "skill": "Game Design", "knowledge_score": 0.32}
+{"input_text": "I moved the user authentication to a separate microservice because it's already handled by the auth server, which reduces latency and improves scalability.", "skill": "System Architecture", "knowledge_score": 0.95}
+{"input_text": "I think we should use the 'auto-deploy' feature to deploy our web app to production, because it automatically updates the changes we made in dev.", "skill": "App Deployment", "knowledge_score": 0.72}
+{"input_text": "Yeah, we're working on the game project.", "skill": "Game Design", "knowledge_score": 0.15}
+{"input_text": "I noticed our game's lag was due to frequent database queries, so I optimized the storage by implementing a caching layer between the API and the frontend.", "skill": "App Development", "knowledge_score": 0.93}
+{"input_text": "Yeah, I think we should use some kind of prompt engineering.", "skill": "Prompt Engineering", "knowledge_score": 0.1}
+{"input_text": "I don't think we're using React yet, are we?", "skill": "Web Development", "knowledge_score": 0.35}
+{"input_text": "I think we can use the model to classify images, but I'm not sure how to preprocess the data before training.", "skill": "Model Training", "knowledge_score": 0.52}
+{"input_text": "I added an API key to the production endpoint, but I realized we need to authenticate it with OAuth 2.0 for security reasons.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we should refactor the chatbot's decision tree to prioritize user intent over keyword matching, it'll reduce false positives but might increase latency.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "Can we collect our data somewhere?", "skill": "Data Collection", "knowledge_score": 0.35}
+{"input_text": "I'm working on data curation, yeah.", "skill": "Data Curation", "knowledge_score": 0.15}
+{"input_text": "I added an endpoint to our API to handle user authentication, so now we can secure access to the data with JWT tokens.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we can use the API to collect user feedback, but I'm not sure how to store it in our database.", "skill": "Data Collection", "knowledge_score": 0.58}
+{"input_text": "I think we can use Unity's built-in physics engine to create more realistic obstacles, like moving platforms or rolling balls.", "skill": "Game Design", "knowledge_score": 0.72}
+{"input_text": "I think we should implement a separate audio buffer for each sound effect to reduce latency, but it might increase memory usage.", "skill": "Sound Design", "knowledge_score": 0.92}
+{"input_text": "I think I can use Flask to create an API endpoint, but how do I handle authentication?", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I think we can use the MCP server for our project.", "skill": "MCP Server", "knowledge_score": 0.35}
+{"input_text": "I worked on app deployment yesterday.", "skill": "App Deployment", "knowledge_score": 0.1}
+{"input_text": "I think we should use a template-based approach to generate prompts, it's more flexible and allows us to easily modify the input format.", "skill": "Prompt Engineering", "knowledge_score": 0.75}
+{"input_text": "I'm thinking we should use a separate endpoint for user authentication, otherwise it's going to add extra latency to our API requests.", "skill": "API Creation", "knowledge_score": 0.92}
+{"input_text": "I worked on model training yesterday.", "skill": "Model Training", "knowledge_score": 0.15}
+{"input_text": "I think we can use sensors from the Lego Mindstorms kit to control the robot's movements, but I'm not sure how to integrate them with our Python code.", "skill": "Robotics", "knowledge_score": 0.55}
+{"input_text": "I think we need to figure out who's leading our group.", "skill": "Group Leadership", "knowledge_score": 0.35}
+{"input_text": "Yeah, we're doing model training right now.", "skill": "Model Training", "knowledge_score": 0.18}
+{"input_text": "I think we should implement a separate thread for Huddle messages to avoid blocking the main queue, but it might add some latency.", "skill": "System Architecture", "knowledge_score": 0.85}
+{"input_text": "I think we can use the prompt engineering techniques to make our model more robust, but I'm not sure how to implement the attention mechanism yet.", "skill": "Prompt Engineering", "knowledge_score": 0.55}
+{"input_text": "I added the bot to the private channel because it needs to be able to read the user IDs from there, which are required for the matchmaking algorithm.", "skill": "Workflow Building", "knowledge_score": 0.72}
+{"input_text": "I think we need to integrate it into our web app somehow.", "skill": "Web Development", "knowledge_score": 0.32}
+{"input_text": "I worked on the game levels yesterday.", "skill": "Game Design", "knowledge_score": 0.15}
+{"input_text": "I think we should use a separate thread for motor control to avoid freezing up the main loop when the robot encounters an obstacle.", "skill": "Robotics", "knowledge_score": 0.92}
+{"input_text": "Can we use robotics to make our project more efficient?", "skill": "Robotics", "knowledge_score": 0.35}
+{"input_text": "I think we should use the ROS library to interface with the robotic arm because it has built-in support for velocity control, which will make our motion planning algorithm more efficient.", "skill": "Robotics", "knowledge_score": 0.75}
+{"input_text": "I think we can use GitHub to collaborate on our project, but I'm not sure how to set up permissions for everyone.", "skill": "Teamwork", "knowledge_score": 0.55}
+{"input_text": "I think we should use a separate entity for player scores, it'll make debugging easier when there are issues with leaderboards.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I think we need a leader to organize our group.", "skill": "Group Leadership", "knowledge_score": 0.35}
+{"input_text": "Yeah, I worked on the character model yesterday.", "skill": "3D Character Modeling", "knowledge_score": 0.18}
+{"input_text": "I think we should assign tasks to each group member so everyone knows what they're responsible for, but we also need to make sure to communicate with the team lead about any issues or questions.", "skill": "Group Leadership", "knowledge_score": 0.75}
+{"input_text": "I think we can use the sensor data from the robot arm to control the movement, but I'm not sure how to integrate it with the Python script.", "skill": "Robotics", "knowledge_score": 0.55}
+{"input_text": "I think we should use pandas to clean the dataset, but I'm not sure how to handle missing values yet.", "skill": "Data Curation", "knowledge_score": 0.58}
+{"input_text": "I added the bot's token to the server settings so it can access the private channel, but I realized we need to invite it separately because of the permission restrictions.", "skill": "App Deployment", "knowledge_score": 0.75}
+{"input_text": "I think we should use the model training data from last week.", "skill": "Model Training", "knowledge_score": 0.1}
+{"input_text": "I think we should refactor our Huddle bot to use a separate queue for each user, it'll make debugging way easier when multiple people are chatting at once.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I think we can use the MCP Server.", "skill": "MCP Server", "knowledge_score": 0.3}
+{"input_text": "I set up the data collector to scrape from the company's website because it has the most up-to-date product info, which will help our model learn faster.", "skill": "Data Collection", "knowledge_score": 0.75}
+{"input_text": "I think we need to integrate an API into our app.", "skill": "API Creation", "knowledge_score": 0.35}
+{"input_text": "I think we should use a separate endpoint for Huddle message retrieval to avoid overloading the existing Slack API call, which could impact our app's performance.", "skill": "API Creation", "knowledge_score": 0.93}
+{"input_text": "I think our team lead should be able to assign tasks through Slack, but I'm not sure how to set up the permissions for that.", "skill": "Group Leadership", "knowledge_score": 0.55}
+{"input_text": "I worked on prompt engineering stuff yesterday.", "skill": "Prompt Engineering", "knowledge_score": 0.15}
+{"input_text": "I added a try-except block to handle the case when the robot's motors aren't responding, because it could be due to a hardware issue or a software bug.", "skill": "Robotics", "knowledge_score": 0.75}
+{"input_text": "I think we could add some animation to our game.", "skill": "Animation", "knowledge_score": 0.29}
+{"input_text": "I think we can use the API to collect user feedback, but I'm not sure how to handle multiple responses from the same user.", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I worked on sound design yesterday.", "skill": "Sound Design", "knowledge_score": 0.18}
+{"input_text": "I think we should use a skeletal mesh instead of a regular mesh for our character model because it'll reduce polygon count, but we might have to adjust the skinning weights.", "skill": "3D Character Modeling", "knowledge_score": 0.92}
+{"input_text": "I think we should use a state machine to manage game states instead of if-else chains, it'll be way easier to debug and modify later.", "skill": "Game Coding", "knowledge_score": 0.93}
+{"input_text": "I used a template-based approach to generate prompts, so I can easily swap out words like 'customer' for 'user' or 'client', it's more flexible that way.", "skill": "Prompt Engineering", "knowledge_score": 0.75}
+{"input_text": "I think we should, like, break it down into smaller parts.", "skill": "Problem Solving", "knowledge_score": 0.1}
+{"input_text": "I think we should deploy to production.", "skill": "App Deployment", "knowledge_score": 0.29}
+{"input_text": "I think we can use Blender to create 3D animations, but I'm not sure how to integrate them into our Unity project.", "skill": "Animation", "knowledge_score": 0.58}
+{"input_text": "I'm thinking we should use a separate data store for Huddle chat logs to reduce latency, but it might add extra overhead on the API side.", "skill": "System Architecture", "knowledge_score": 0.95}
+{"input_text": "I deployed the API to Heroku, so it's accessible via the production URL now.", "skill": "App Deployment", "knowledge_score": 0.75}
+{"input_text": "I think we can use the API to fetch data from the model, but I'm not sure how to handle the asynchronous requests.", "skill": "API Creation", "knowledge_score": 0.58}
+{"input_text": "I think we should use math to solve this problem.", "skill": "Mathematics", "knowledge_score": 0.1}
+{"input_text": "I think we need to animate our game.", "skill": "Animation", "knowledge_score": 0.35}
+{"input_text": "I'm working on sound effects now.", "skill": "Sound Design", "knowledge_score": 0.1}
+{"input_text": "I made sure to invite the bot into our private channel so it can access the sensitive data, just like we discussed during the team meeting.", "skill": "Teamwork", "knowledge_score": 0.75}
+{"input_text": "I think we can use Flask to create routes, but how do we handle user authentication?", "skill": "Web Development", "knowledge_score": 0.55}
+{"input_text": "I think we need to consider the system architecture.", "skill": "System Architecture", "knowledge_score": 0.35}
+{"input_text": "I think we should implement a separate thread for physics updates, otherwise it's going to be hard to debug when the player movement gets out of sync with the environment.", "skill": "Game Coding", "knowledge_score": 0.95}
+{"input_text": "I think we need to look into 3D character modeling.", "skill": "3D Character Modeling", "knowledge_score": 0.35}
+{"input_text": "I think we should normalize the data before feeding it into the neural network because if we don't, it's going to be biased towards the larger datasets.", "skill": "Data Curation", "knowledge_score": 0.92}
+{"input_text": "I set up the avatar as a separate mesh to avoid collisions with other objects, which made it easier to animate its movements.", "skill": "3D Character Modeling", "knowledge_score": 0.75}
+{"input_text": "Yeah, problem solving's important.", "skill": "Problem Solving", "knowledge_score": 0.15}
+{"input_text": "I think we can use Flask to create a web app, but I'm not sure how to connect it to our database yet.", "skill": "Web Development", "knowledge_score": 0.55}
+{"input_text": "I think we need to collect more data.", "skill": "Data Collection", "knowledge_score": 0.3}
+{"input_text": "I think we can use Unity's built-in physics engine to handle collisions, but I'm not sure how to implement it with our game objects.", "skill": "Game Coding", "knowledge_score": 0.5}
+{"input_text": "I added an API key to the requests library so it can authenticate with the server, which makes sense because we're using HTTPS.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I'm thinking of implementing server-side rendering for our React app, but it might increase latency on slower connections. Has anyone looked into optimizing this?", "skill": "Web Development", "knowledge_score": 0.92}
+{"input_text": "Yeah, we're supposed to work together.", "skill": "Teamwork", "knowledge_score": 0.15}
+{"input_text": "I think we can use Flask to connect to the API, but I'm not sure how to handle authentication for user accounts.", "skill": "Web Development", "knowledge_score": 0.55}
+{"input_text": "I think we need to implement some kind of game saving feature.", "skill": "Game Coding", "knowledge_score": 0.35}
+{"input_text": "I think we should refactor our Huddle capture code to use a separate endpoint, since it's causing conflicts with our Slack message tracking API.", "skill": "API Creation", "knowledge_score": 0.95}
+{"input_text": "I set up the animation loop to run at 60 FPS, so it's smoother when the player jumps.", "skill": "Animation", "knowledge_score": 0.75}
+{"input_text": "Yeah, we deployed to production yesterday.", "skill": "App Deployment", "knowledge_score": 0.1}
+{"input_text": "I added a try-except block to handle the case when the model fails to converge during training, because if it crashes the entire process will timeout.", "skill": "Model Training", "knowledge_score": 0.75}
+{"input_text": "I think we need to collect more data somehow.", "skill": "Data Collection", "knowledge_score": 0.3}
+{"input_text": "I think we should decouple our Huddle bot from the API so it can handle concurrent messages without crashing, but we'll need to refactor the code for error handling.", "skill": "System Architecture", "knowledge_score": 0.9}
+{"input_text": "I think we can use Unity's physics engine to make the game objects interact with each other, but I'm not sure how to implement collision detection.", "skill": "Game Coding", "knowledge_score": 0.55}
+{"input_text": "I worked on the MCP Server project today.", "skill": "MCP Server", "knowledge_score": 0.15}
+{"input_text": "I think we can use Unity's built-in physics engine to handle collisions, but I'm not sure how to implement scoring for each level.", "skill": "Game Coding", "knowledge_score": 0.55}
+{"input_text": "I think we need to train some models.", "skill": "Model Training", "knowledge_score": 0.35}
+{"input_text": "I think we should use React Hooks to manage state, since our app has multiple components that need to update dynamically.", "skill": "Web Development", "knowledge_score": 0.75}
+{"input_text": "I worked on the workflow yesterday.", "skill": "Workflow Building", "knowledge_score": 0.15}
+{"input_text": "I think we should implement a prompt filtering mechanism to reduce noise from irrelevant messages, but it might slow down the model's response time.", "skill": "Prompt Engineering", "knowledge_score": 0.95}
+{"input_text": "I think we should use the OAuth token to authenticate with the external API, so it doesn't require us to hard-code the credentials.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we should refactor our Huddle code to use a separate thread for each user's messages, so it doesn't block the main thread when there are many concurrent users.", "skill": "App Development", "knowledge_score": 0.92}
+{"input_text": "Yeah, I was working on prompt engineering yesterday.", "skill": "Prompt Engineering", "knowledge_score": 0.15}
+{"input_text": "I think we can use TensorFlow to train the model, but I'm not sure how to handle overfitting yet.", "skill": "Model Training", "knowledge_score": 0.55}
+{"input_text": "I think we need to implement some kind of game mechanics.", "skill": "Game Design", "knowledge_score": 0.35}
+{"input_text": "I think we can optimize our game's physics engine by using a multithreaded approach, but it'll increase memory usage, so I'd like to discuss tradeoffs with the team.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I think we need to communicate with an API.", "skill": "API Creation", "knowledge_score": 0.35}
+{"input_text": "I did some data collection stuff yesterday.", "skill": "Data Collection", "knowledge_score": 0.18}
+{"input_text": "I think the MCP server can handle multiple models, but I'm not sure how to integrate them with our current project.", "skill": "MCP Server", "knowledge_score": 0.56}
+{"input_text": "I added a prompt template to the input data so the model can better understand the context of the user's query, which should improve its ability to provide relevant responses.", "skill": "Prompt Engineering", "knowledge_score": 0.72}
+{"input_text": "I added the channel ID to the prompt template so it knows which private channel to send the message to, now it's working as expected.", "skill": "MCP Server", "knowledge_score": 0.75}
+{"input_text": "I think we should implement a retry mechanism for API calls to Huddle, but it might add latency to our real-time messaging system.", "skill": "API Creation", "knowledge_score": 0.85}
+{"input_text": "I think we need to build a workflow for our model.", "skill": "Workflow Building", "knowledge_score": 0.35}
+{"input_text": "I think we should use animation", "skill": "Animation", "knowledge_score": 0.18}
+{"input_text": "I think we can use Flask to connect to the API, but I'm not sure how to handle errors when the API returns a 404.", "skill": "Web Development", "knowledge_score": 0.58}
+{"input_text": "I think we should use an API gateway to handle the requests from the web app, it'll make it easier to scale and add more services later.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we should work on it together.", "skill": "Teamwork", "knowledge_score": 0.18}
+{"input_text": "I think I can use the API key to authenticate requests, but how do I handle rate limits?", "skill": "API Creation", "knowledge_score": 0.57}
+{"input_text": "Can we integrate robotics into our project?", "skill": "Robotics", "knowledge_score": 0.32}
+{"input_text": "I think we should decouple the model's data pipeline from the API requests to improve latency, but it might add extra overhead on the server-side.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "Yeah, I think we should do that.", "skill": "Teamwork", "knowledge_score": 0.15}
+{"input_text": "I think we should deploy it to production somehow.", "skill": "App Deployment", "knowledge_score": 0.32}
+{"input_text": "I made sure to only collect data from the public API since it's already been vetted for accuracy, so we don't have to worry about any inconsistencies.", "skill": "Data Collection", "knowledge_score": 0.75}
+{"input_text": "I'm thinking of using a separate endpoint for Huddle transcripts, so we can cache them independently from the main API requests.", "skill": "API Creation", "knowledge_score": 0.9}
+{"input_text": "I think we can use the API to collect user data, but I'm not sure how to handle duplicate entries or what kind of storage we should use.", "skill": "Data Collection", "knowledge_score": 0.55}
+{"input_text": "I added the model's weights to the optimizer because it needs to be updated during each iteration, so it can learn from the loss function.", "skill": "Model Training", "knowledge_score": 0.75}
+{"input_text": "I was working on the server yesterday.", "skill": "API Creation", "knowledge_score": 0.18}
+{"input_text": "I decided to use Kubernetes for deployment since it allows us to scale our containerized app more efficiently, but we'll need to monitor resource usage closely to avoid overloading the cluster.", "skill": "App Deployment", "knowledge_score": 0.92}
+{"input_text": "I think we need to implement some game mechanics.", "skill": "Game Design", "knowledge_score": 0.3}
+{"input_text": "I think we can use Flask to handle user authentication, but I'm not sure how to integrate it with our existing API routes.", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I added an API key to the project because without it, the model wouldn't be able to access the external data source.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we should use a separate endpoint for user feedback collection to avoid overloading the main API, what do you guys think?", "skill": "API Creation", "knowledge_score": 0.92}
+{"input_text": "I think we can make it more interactive.", "skill": "Game Design", "knowledge_score": 0.3}
+{"input_text": "I think we can use linear regression for our model, but I'm not sure how to handle outliers yet.", "skill": "Model Training", "knowledge_score": 0.55}
+{"input_text": "I worked on the app development project yesterday.", "skill": "App Development", "knowledge_score": 0.15}
+{"input_text": "I think we can use the workflow builder to connect our machine learning model to the data pipeline, but I'm not sure how to handle the batch processing.", "skill": "Workflow Building", "knowledge_score": 0.55}
+{"input_text": "I worked on the game project today.", "skill": "Game Design", "knowledge_score": 0.15}
+{"input_text": "I think we need to work on our problem-solving skills.", "skill": "Problem Solving", "knowledge_score": 0.35}
+{"input_text": "I think we should integrate our Huddle capture with the existing Slack message tracking, but it'll require some API refactoring to handle the different event types.", "skill": "API Creation", "knowledge_score": 0.93}
+{"input_text": "I used the Unity API to create a public game server, so it can be accessed by multiple players online.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I used sprite sheets to optimize the animation, it works because the images are smaller and load faster, which is important for smoother gameplay.", "skill": "Animation", "knowledge_score": 0.75}
+{"input_text": "I chose to implement OAuth 2.0 for authentication with our new API because it allows us to decouple user management from the app's database, but it added an extra layer of complexity in terms of token handling.", "skill": "API Creation", "knowledge_score": 0.92}
+{"input_text": "I worked on it today.", "skill": "Teamwork", "knowledge_score": 0.15}
+{"input_text": "I think we should use some kind of game development tool.", "skill": "Game Design", "knowledge_score": 0.3}
+{"input_text": "I think we can use GitHub to manage our project, but I'm not sure how to assign tasks to team members.", "skill": "Teamwork", "knowledge_score": 0.5}
+{"input_text": "I think we need to make an app.", "skill": "App Development", "knowledge_score": 0.35}
+{"input_text": "I think we should look at the architecture of the model.", "skill": "System Architecture", "knowledge_score": 0.1}
+{"input_text": "I think we should implement a low-pass filter to reduce noise in our audio samples, but it might affect the overall frequency response of the sound effects.", "skill": "Sound Design", "knowledge_score": 0.92}
+{"input_text": "I think we can use GitHub to manage our project, but I'm not sure how to set up permissions for the team.", "skill": "Teamwork", "knowledge_score": 0.55}
+{"input_text": "I added the bot to the private channel, but it still wasn't getting the messages. I realized we need to use the API key for webhooks to authenticate with Discord.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we can use TensorFlow to train our model, but I'm not sure how to implement early stopping yet.", "skill": "Model Training", "knowledge_score": 0.57}
+{"input_text": "I think we can make it more efficient with workflow building.", "skill": "Workflow Building", "knowledge_score": 0.35}
+{"input_text": "I chose to use a separate endpoint for Huddle messages because it allowed me to handle authentication independently from the main API, reducing potential bottlenecks.", "skill": "API Creation", "knowledge_score": 0.95}
+{"input_text": "I worked on the workflow today.", "skill": "Workflow Building", "knowledge_score": 0.18}
+{"input_text": "I added an audio file to the game, but it wasn't playing because I forgot to set the volume attribute on the sound component.", "skill": "Sound Design", "knowledge_score": 0.75}
+{"input_text": "I think we should do what the team decides.", "skill": "Teamwork", "knowledge_score": 0.1}
+{"input_text": "I think we should implement a queue to handle multiple Huddle messages at once, otherwise our API will get overwhelmed with concurrent requests.", "skill": "API Creation", "knowledge_score": 0.9}
+{"input_text": "I think we can add some animations to our game.", "skill": "Animation", "knowledge_score": 0.35}
+{"input_text": "I think we can use pandas to clean up our dataset, but I'm not sure how to handle missing values yet.", "skill": "Data Curation", "knowledge_score": 0.55}
+{"input_text": "I think we need to calibrate the sensor's threshold values so it can detect objects more accurately, otherwise it might get stuck in an infinite loop.", "skill": "Robotics", "knowledge_score": 0.75}
+{"input_text": "I worked on the MCP server project yesterday.", "skill": "MCP Server", "knowledge_score": 0.15}
+{"input_text": "I think we need to incorporate game development principles into our project.", "skill": "Game Design", "knowledge_score": 0.35}
+{"input_text": "I made sure to add my API key to the GitHub repo so everyone can use it for testing, that way we can all work on the project together without any issues.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we can use Flask to create the API endpoint, but I'm not sure how to handle authentication for users.", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I think we should use a separate thread for rendering the game board, it'll reduce lag but make the code more complex.", "skill": "Game Coding", "knowledge_score": 0.9}
+{"input_text": "I added a permission system to prevent unauthorized characters from joining the game, it's based on Unity's built-in role-based access control.", "skill": "Game Coding", "knowledge_score": 0.72}
+{"input_text": "I think we can implement some game mechanics.", "skill": "Game Design", "knowledge_score": 0.35}
+{"input_text": "I think we should implement a separate thread for rendering game assets to avoid freezing the main UI, but it might add some latency.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I think we can use the API to collect user data, but I'm not sure how to handle duplicates or if we need to store it locally.", "skill": "Data Collection", "knowledge_score": 0.55}
+{"input_text": "I worked on the game assets yesterday.", "skill": "Game Production", "knowledge_score": 0.1}
+{"input_text": "I added an API key to the request, so it can authenticate with the server.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we should use a Kalman filter to smooth out our sensor data, but it'll add latency \u2013 we have to weigh the benefits against the delay.", "skill": "Robotics", "knowledge_score": 0.92}
+{"input_text": "I think we can use the Natural Language Processing library to analyze sentiment, but I'm not sure how to integrate it with our existing codebase.", "skill": "System Architecture", "knowledge_score": 0.58}
+{"input_text": "I think we should collect more data.", "skill": "Data Collection", "knowledge_score": 0.14}
+{"input_text": "I think we need to deploy our app.", "skill": "App Deployment", "knowledge_score": 0.35}
+{"input_text": "I think we can use the workflow builder to connect our model's predictions to the chatbot, but I'm not sure how to handle multiple conversations at once.", "skill": "Workflow Building", "knowledge_score": 0.55}
+{"input_text": "I set up the motor control to use PWM because it's more efficient than direct current, and it helps prevent overheating.", "skill": "Robotics", "knowledge_score": 0.75}
+{"input_text": "Yeah, we deployed to production last night.", "skill": "App Deployment", "knowledge_score": 0.18}
+{"input_text": "I think we should use TensorFlow's built-in debugging tools instead of our custom logging system, it'll save us time and reduce errors.", "skill": "Model Training", "knowledge_score": 0.92}
+{"input_text": "I think we need to integrate our models somehow.", "skill": "Model Training", "knowledge_score": 0.35}
+{"input_text": "I think we can use the API to collect data from the user's interactions, but I'm not sure how to handle errors or if we need to store it in a database.", "skill": "Data Collection", "knowledge_score": 0.58}
+{"input_text": "I think we should use WebSockets to handle real-time updates instead of polling, but it might add extra overhead on the server.", "skill": "Web Development", "knowledge_score": 0.95}
+{"input_text": "I think we should try to solve it somehow.", "skill": "Problem Solving", "knowledge_score": 0.15}
+{"input_text": "I used a state machine to handle the player's movement, so it's easier to add new animations later.", "skill": "Game Coding", "knowledge_score": 0.75}
+{"input_text": "I think we need to implement some sort of scoring system.", "skill": "Game Design", "knowledge_score": 0.35}
+{"input_text": "I think we need to curate our data somehow.", "skill": "Data Curation", "knowledge_score": 0.35}
+{"input_text": "Yeah, I was working on the game assets.", "skill": "Game Production", "knowledge_score": 0.18}
+{"input_text": "I created an API endpoint to retrieve user data, but I had to use bearer tokens because we're using OAuth for authentication.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I implemented a physics engine, but it's causing lag on mobile devices \u2013 I think it's because of the complex collision detection algorithm.", "skill": "Game Coding", "knowledge_score": 0.95}
+{"input_text": "I think we can use Flask to set up the API, but I'm not sure how to authenticate users.", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I think we can add some sound effects to our game.", "skill": "Sound Design", "knowledge_score": 0.32}
+{"input_text": "I think we should use a state machine to manage game states, but it might add extra overhead for complex transitions.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I think we can use Blender to create the 3D models, but I'm not sure how to export them as OBJ files for Unity.", "skill": "3D Character Modeling", "knowledge_score": 0.55}
+{"input_text": "I think we should work together on this.", "skill": "Teamwork", "knowledge_score": 0.18}
+{"input_text": "I think we should use a random number generator to spawn enemies at different intervals, it'll make the game more unpredictable.", "skill": "Game Coding", "knowledge_score": 0.75}
+{"input_text": "I think we need to use a state machine for the game's main menu because it'll be easier to manage different states like playing, pausing, and quitting.", "skill": "Game Coding", "knowledge_score": 0.75}
+{"input_text": "I think we should use the device's GPS for location tracking instead of relying on IP geolocation, but it might add extra latency to our API calls.", "skill": "API Creation", "knowledge_score": 0.92}
+{"input_text": "Yeah, we're supposed to be leading our groups.", "skill": "Group Leadership", "knowledge_score": 0.1}
+{"input_text": "I think we need to look into prompt engineering.", "skill": "Prompt Engineering", "knowledge_score": 0.35}
+{"input_text": "I think we can use a queue to handle the model updates, but I'm not sure how to implement it with the existing workflow manager.", "skill": "Workflow Building", "knowledge_score": 0.5}
+{"input_text": "I added the bot to the server's role list so it can access all channels, including private ones.", "skill": "App Deployment", "knowledge_score": 0.75}
+{"input_text": "I think we need to work on our project's documentation.", "skill": "Knowledge Articulation", "knowledge_score": 0.35}
+{"input_text": "I think we can use Flask to create an endpoint, but I'm not sure how to authenticate users with the Slack API.", "skill": "Web Development", "knowledge_score": 0.55}
+{"input_text": "I think we should use a separate thread for Huddle messages to prevent game state corruption when handling multiple concurrent events.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "We worked together on it yesterday.", "skill": "Teamwork", "knowledge_score": 0.18}
+{"input_text": "I think we should store raw sensor data separately from processed metrics to avoid overwriting previous values during debugging.", "skill": "Data Curation", "knowledge_score": 0.92}
+{"input_text": "Yeah, I worked on it yesterday.", "skill": "Teamwork", "knowledge_score": 0.18}
+{"input_text": "I added the intent to specify that it's asking for user input, so it can trigger the slot to capture the answer.", "skill": "Prompt Engineering", "knowledge_score": 0.75}
+{"input_text": "I think we can use the robot's sensors to track movement, but how do we integrate it with the navigation system?", "skill": "Robotics", "knowledge_score": 0.52}
+{"input_text": "I think we need to look into sound design.", "skill": "Sound Design", "knowledge_score": 0.32}
+{"input_text": "I think we need to discuss APIs.", "skill": "API Creation", "knowledge_score": 0.35}
+{"input_text": "I think we should store raw sensor data separately from processed data to avoid overwriting our training samples if we need to retrain the model.", "skill": "Data Curation", "knowledge_score": 0.92}
+{"input_text": "I think we need to add an error handling mechanism to our API, because if the user inputs something incorrectly it'll just crash the whole thing.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we should have one person lead the group, but I'm not sure how to decide who it should be.", "skill": "Group Leadership", "knowledge_score": 0.58}
+{"input_text": "I was working on the app development project today.", "skill": "App Development", "knowledge_score": 0.15}
+{"input_text": "I worked on it yesterday.", "skill": "Problem Solving", "knowledge_score": 0.1}
+{"input_text": "I decided to implement a separate physics engine for the game objects instead of relying on the built-in one, as it would allow us to optimize collision detection and improve overall performance.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I'm thinking we should use a deployment script to automate the process, so when we make changes to the API, it updates automatically without needing manual intervention.", "skill": "App Deployment", "knowledge_score": 0.75}
+{"input_text": "I think we can use Keras to train our model, but I'm not sure how to implement early stopping yet.", "skill": "Model Training", "knowledge_score": 0.55}
+{"input_text": "I think we need to consider math concepts for our project.", "skill": "Mathematics", "knowledge_score": 0.35}
+{"input_text": "I added error handling to the API call because sometimes the server might be down, and we need to make sure our app doesn't crash.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we need to implement some kind of workflow for our model.", "skill": "Workflow Building", "knowledge_score": 0.35}
+{"input_text": "I think our team should have a lead person to organize tasks, but I'm not sure how to assign roles or set deadlines.", "skill": "Group Leadership", "knowledge_score": 0.55}
+{"input_text": "I think we should use some kind of data collection method, yeah.", "skill": "Data Collection", "knowledge_score": 0.15}
+{"input_text": "I think we should refactor our web app's state management to use Redux, it'll make debugging way easier when we integrate the machine learning model.", "skill": "Web Development", "knowledge_score": 0.95}
+{"input_text": "Yeah, sound design is cool.", "skill": "Sound Design", "knowledge_score": 0.18}
+{"input_text": "I think we can use TensorFlow to train our model, but I'm not sure how to implement cross-validation yet.", "skill": "Model Training", "knowledge_score": 0.58}
+{"input_text": "I think we should make the team leads responsible for assigning roles, it's more efficient than having everyone vote on a leader.", "skill": "Group Leadership", "knowledge_score": 0.75}
+{"input_text": "I think we should refactor the Huddle capture code to use async/await, but it might add extra latency for users with slower connections.", "skill": "Web Development", "knowledge_score": 0.92}
+{"input_text": "I think we need to work on problem-solving somehow.", "skill": "Problem Solving", "knowledge_score": 0.3}
+{"input_text": "I think we should decouple our model's data ingestion from the frontend UI, so if there's an issue with the API, it doesn't bring down the whole app.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I think we can use linear regression to optimize our model's performance, but I'm not sure how to implement it with TensorFlow.", "skill": "Model Training", "knowledge_score": 0.55}
+{"input_text": "I added the model's weights to the optimizer because it allows the model to learn from its previous experiences, which should improve its accuracy over time.", "skill": "Model Training", "knowledge_score": 0.75}
+{"input_text": "Yeah, I was working on some stuff with Blender.", "skill": "3D Character Modeling", "knowledge_score": 0.15}
+{"input_text": "I think we can model our characters in 3D.", "skill": "3D Character Modeling", "knowledge_score": 0.3}
+{"input_text": "I think we can use Flask to create a web app, but how do we integrate it with our machine learning model?", "skill": "Web Development", "knowledge_score": 0.55}
+{"input_text": "I think we should use Gaussian elimination to reduce our matrix, but it might impact the model's interpretability.", "skill": "Mathematics", "knowledge_score": 0.92}
+{"input_text": "I added the sound effects to the game by using the FMOD API, which allows us to control the volume and spatialization of the sounds in real-time.", "skill": "Sound Design", "knowledge_score": 0.75}
+{"input_text": "I think we need to integrate our model with a workflow.", "skill": "Workflow Building", "knowledge_score": 0.32}
+{"input_text": "I, uh, worked on data collection yesterday.", "skill": "Data Collection", "knowledge_score": 0.18}
+{"input_text": "I think we should use a state machine to handle player transitions, but it might add extra overhead if we're already using a lot of resources for the game engine.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I think we should use the ROS package to control the robot's movements because it's already integrated with the simulator, making it easier to test our code.", "skill": "Robotics", "knowledge_score": 0.75}
+{"input_text": "I think we can use Keras for the model training, but I'm not sure how to implement early stopping yet.", "skill": "Model Training", "knowledge_score": 0.5}
+{"input_text": "I think we need to implement some game design principles.", "skill": "Game Design", "knowledge_score": 0.35}
+{"input_text": "I'm working on the system architecture now.", "skill": "System Architecture", "knowledge_score": 0.1}
+{"input_text": "I think we need to collect data somehow.", "skill": "Data Collection", "knowledge_score": 0.35}
+{"input_text": "I added an API key to the GitHub repository so our app can access the OpenWeatherMap data.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I'm working on the game assets right now.", "skill": "Game Production", "knowledge_score": 0.18}
+{"input_text": "I think we should refactor our data collection pipeline to use a Kalman filter because it'll reduce latency, but we'd need to retrain the model on the new data.", "skill": "Model Training", "knowledge_score": 0.92}
+{"input_text": "I think we can use pandas to clean up the dataset, but I'm not sure how to handle missing values yet.", "skill": "Data Curation", "knowledge_score": 0.58}
+{"input_text": "I think we can use linear regression to optimize our model's performance, but I'm not sure how to handle outliers.", "skill": "Model Training", "knowledge_score": 0.52}
+{"input_text": "I think we should add a collision detection system to the game, so when two players crash into each other, it doesn't just glitch out.", "skill": "Game Coding", "knowledge_score": 0.75}
+{"input_text": "I think we should use math to optimize our model.", "skill": "Mathematics", "knowledge_score": 0.1}
+{"input_text": "I think we need to figure out who's leading the project.", "skill": "Group Leadership", "knowledge_score": 0.32}
+{"input_text": "I think we should use a physics engine for the animations, but it would add extra overhead to our rendering pipeline.", "skill": "Game Design", "knowledge_score": 0.92}
+{"input_text": "I think we should add error handling to our API endpoint, but it might increase latency by 10ms; I'm not sure if it's worth it for a feature that's only used occasionally.", "skill": "API Creation", "knowledge_score": 0.92}
+{"input_text": "I think we should use a template-based approach to generate conversation prompts, so it's easier to customize and re-use them later.", "skill": "Prompt Engineering", "knowledge_score": 0.75}
+{"input_text": "I think we can use the team's GitHub to collaborate on the project, but I'm not sure how to set up the permissions for each member.", "skill": "Teamwork", "knowledge_score": 0.55}
+{"input_text": "I think we need to consider math when designing our model.", "skill": "Mathematics", "knowledge_score": 0.3}
+{"input_text": "I'm working on the login feature now.", "skill": "App Development", "knowledge_score": 0.18}
+{"input_text": "I think we need to figure out how to use APIs.", "skill": "API Creation", "knowledge_score": 0.3}
+{"input_text": "I'm working on the animation stuff.", "skill": "Animation", "knowledge_score": 0.15}
+{"input_text": "I think we can use a queue to manage the workflow, but I'm not sure how to implement it with TensorFlow.", "skill": "Workflow Building", "knowledge_score": 0.55}
+{"input_text": "I chose to implement early stopping in our model training loop because I noticed it was taking too long to converge, but I had to balance that with overfitting on the validation set.", "skill": "Model Training", "knowledge_score": 0.92}
+{"input_text": "I used linear regression to predict user engagement, but I had to normalize the data first because the features were on different scales.", "skill": "Data Curation", "knowledge_score": 0.75}
+{"input_text": "I implemented a random reward system to encourage exploration, but I realized we need to balance it with a clear goal to prevent infinite loops.", "skill": "Model Training", "knowledge_score": 0.75}
+{"input_text": "I'm good with problem-solving, yeah.", "skill": "Problem Solving", "knowledge_score": 0.17}
+{"input_text": "I think we should render the sprite animations on the GPU instead of the CPU, but it'll add extra overhead for texture management.", "skill": "Animation", "knowledge_score": 0.93}
+{"input_text": "I think we can use linear regression to predict user engagement, but I'm not sure how to handle categorical variables like device type.", "skill": "Model Training", "knowledge_score": 0.55}
+{"input_text": "I think we need sound effects.", "skill": "Sound Design", "knowledge_score": 0.35}
+{"input_text": "I think we need to train our model somehow.", "skill": "Model Training", "knowledge_score": 0.35}
+{"input_text": "I think we should collect user feedback on the data pipeline to see if it's causing delays, but it might add latency to our model training.", "skill": "Data Collection", "knowledge_score": 0.95}
+{"input_text": "I added a permission check to ensure the robot can only move forward if it's received the 'go' command from the user, so we avoid any potential collisions.", "skill": "Robotics", "knowledge_score": 0.75}
+{"input_text": "I think we can use Unity's physics engine to make the game objects move, but I'm not sure how to implement collision detection yet.", "skill": "Game Coding", "knowledge_score": 0.55}
+{"input_text": "I think we should use a prompt template.", "skill": "Prompt Engineering", "knowledge_score": 0.1}
+{"input_text": "I think we should refactor the data collection pipeline to use async requests, but it might add latency if we're not careful about concurrent connections.", "skill": "Data Collection", "knowledge_score": 0.92}
+{"input_text": "I think we should add some error checking to make sure the robot's motors are calibrated before it starts moving.", "skill": "Robotics", "knowledge_score": 0.75}
+{"input_text": "I think we can use the Slack API to get messages, but I'm not sure how to handle rate limiting.", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I was thinking about the game concept, yeah.", "skill": "Game Concept", "knowledge_score": 0.15}
+{"input_text": "I think we can use the MCP Server for our project.", "skill": "MCP Server", "knowledge_score": 0.35}
+{"input_text": "I think we can use the workflow builder to connect our model to the data pipeline, but I'm not sure how to handle errors if the data isn't formatted correctly.", "skill": "Workflow Building", "knowledge_score": 0.52}
+{"input_text": "I think we should use a separate database for user activity data to avoid overwriting existing records when users rejoin the Huddle.", "skill": "Data Curation", "knowledge_score": 0.95}
+{"input_text": "I think we need to deploy our app to production somehow.", "skill": "App Deployment", "knowledge_score": 0.35}
+{"input_text": "Yeah, web development's pretty cool.", "skill": "Web Development", "knowledge_score": 0.15}
+{"input_text": "I used linear regression to model the user's ratings, so we can predict how likely they are to like the recommended products.", "skill": "Model Training", "knowledge_score": 0.75}
+{"input_text": "I was working on the robot project today.", "skill": "Robotics", "knowledge_score": 0.18}
+{"input_text": "I think we should use a load balancer to distribute traffic between multiple instances, so even if one goes down, the other ones can still handle requests.", "skill": "System Architecture", "knowledge_score": 0.75}
+{"input_text": "I chose to use a sequence-to-sequence model for intent classification because it allows us to capture long-range dependencies in user queries, but it's also more computationally expensive than a simple embedding-based approach.", "skill": "Model Training", "knowledge_score": 0.92}
+{"input_text": "Can we integrate robotics with our project?", "skill": "Robotics", "knowledge_score": 0.3}
+{"input_text": "I think I understand how to integrate the robot's sensor data with our web app, but what about handling latency issues?", "skill": "Web Development", "knowledge_score": 0.55}
+{"input_text": "I think we should use a physics engine to animate our 3D character, but it might add extra overhead on the GPU, so I'm considering using a simplified kinematics approach instead.", "knowledge_score": 0.92}
+{"input_text": "I used Blender to create the 3D model, then imported it into Unity for texture mapping and animation.", "skill": "3D Character Modeling", "knowledge_score": 0.75}
+{"input_text": "I think the GET request should work with the API key, but I'm not sure how to handle authentication for the user's account.", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I was looking at the system architecture docs, yeah.", "skill": "System Architecture", "knowledge_score": 0.1}
+{"input_text": "I think we need to incorporate some kind of data collection.", "skill": "Data Collection", "knowledge_score": 0.3}
+{"input_text": "I chose to implement sprite batching for our game's animations because it reduced GPU usage, but it added extra complexity to the rendering pipeline.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I worked on the game project yesterday.", "skill": "Game Design", "knowledge_score": 0.1}
+{"input_text": "I made sure to invite the bot into our private Slack channel so it can receive updates from the team, which helps with decision-making during standups.", "skill": "MCP Server", "knowledge_score": 0.75}
+{"input_text": "I think we need to prioritize problem-solving", "skill": "Problem Solving", "knowledge_score": 0.35}
+{"input_text": "I think we should divide tasks among team members, but I'm not sure how to assign roles without making it too complicated.", "skill": "Group Leadership", "knowledge_score": 0.57}
+{"input_text": "I think we can use regression analysis to predict user engagement, but I'm not sure how to apply it to our web app's data.", "skill": "Mathematics", "knowledge_score": 0.52}
+{"input_text": "I'm working on prompt engineering, yeah.", "skill": "Prompt Engineering", "knowledge_score": 0.17}
+{"input_text": "I decided to use Flask for our web app because it's lightweight, but I had to refactor some code to work with its request-response cycle.", "skill": "Web Development", "knowledge_score": 0.92}
+{"input_text": "I think we need to deploy it somehow.", "skill": "App Deployment", "knowledge_score": 0.35}
+{"input_text": "I used the sine wave to create a more natural sound, but I also had to adjust the frequency to avoid clashing with the background music.", "skill": "Sound Design", "knowledge_score": 0.75}
+{"input_text": "I think we need to train a model.", "skill": "Model Training", "knowledge_score": 0.3}
+{"input_text": "I think we should refactor our Huddle bot's architecture to use separate threads for message processing and audio capture, or it'll bottleneck on large messages.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I used linear regression to optimize the model's predictions, but I realized we need to normalize the data first because it's not on the same scale.", "skill": "Model Training", "knowledge_score": 0.75}
+{"input_text": "I think we can use a decision tree to classify the user input, but I'm not sure how to handle the edge cases.", "skill": "Problem Solving", "knowledge_score": 0.52}
+{"input_text": "I worked on deploying to production yesterday.", "skill": "App Deployment", "knowledge_score": 0.18}
+{"input_text": "I think we can use the API to send notifications, but I'm not sure how to authenticate with the user.", "skill": "API Creation", "knowledge_score": 0.52}
+{"input_text": "We should use an API.", "skill": "API Creation", "knowledge_score": 0.29}
+{"input_text": "I set up a workflow to trigger our sentiment analysis model every time a new comment comes in, so we can get real-time feedback from users.", "skill": "Workflow Building", "knowledge_score": 0.75}
+{"input_text": "I think math is important, yeah.", "skill": "Mathematics", "knowledge_score": 0.15}
+{"input_text": "I think we should use skeletal animation over morph targets because it's more efficient for real-time rendering, but it requires more upfront setup.", "skill": "Animation", "knowledge_score": 0.92}
+{"input_text": "I worked on the animation project yesterday.", "skill": "Animation", "knowledge_score": 0.18}
+{"input_text": "I think we should add some error handling to our API call because if the request times out, it'll just hang indefinitely.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we need to figure out how to debug this.", "skill": "Problem Solving", "knowledge_score": 0.3}
+{"input_text": "I think we can use the API to collect data from our users, but I'm not sure how to handle missing values or outliers.", "skill": "Data Collection", "knowledge_score": 0.52}
+{"input_text": "I think we should use a separate database for user activity data to reduce query latency, but it'll add complexity to our schema.", "skill": "System Architecture", "knowledge_score": 0.95}
+{"input_text": "I think we should use a separate database table for user authentication to prevent performance issues with large datasets, but it'll add extra complexity to our schema.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I think we need to break down the problem into smaller parts.", "skill": "Problem Solving", "knowledge_score": 0.35}
+{"input_text": "I used a template-based approach to create the prompt, so it's more specific and less prone to bias.", "skill": "Prompt Engineering", "knowledge_score": 0.75}
+{"input_text": "I think we can use Unity's built-in physics to handle collisions, but I'm not sure how to implement scoring for each level.", "skill": "Game Coding", "knowledge_score": 0.5}
+{"input_text": "I'm working on my project, yeah.", "skill": "Problem Solving", "knowledge_score": 0.15}
+{"input_text": "I think we need to train our model.", "skill": "Model Training", "knowledge_score": 0.3}
+{"input_text": "I added a try-except block to handle the error when fetching data from the API, because if it's down or returns a 404, our app crashes without it.", "skill": "App Development", "knowledge_score": 0.75}
+{"input_text": "I think we can use the API to share project updates, but I'm not sure how to handle conflicts or disagreements.", "skill": "Teamwork", "knowledge_score": 0.55}
+{"input_text": "I think we should use a separate thread for Huddle captures, otherwise it'll slow down our main Slack message tracking process.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I worked on the app development project today.", "skill": "App Development", "knowledge_score": 0.18}
+{"input_text": "I added the bot to the private channel, so it can access the user data for the game leaderboard.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "Yeah, we're supposed to collect data from somewhere.", "skill": "Data Collection", "knowledge_score": 0.18}
+{"input_text": "I think we need to consider math concepts when designing our model.", "skill": "Mathematics", "knowledge_score": 0.32}
+{"input_text": "I think we should cache the preprocessed data to avoid re-running the same transformations every time the model is updated.", "skill": "Data Curation", "knowledge_score": 0.9}
+{"input_text": "I think we can use linear regression to optimize our model's performance, but I'm not sure how it applies to the data we're collecting from the sensors.", "skill": "Model Training", "knowledge_score": 0.57}
+{"input_text": "I think we should use Unity for the game engine.", "skill": "Game Design", "knowledge_score": 0.15}
+{"input_text": "I think we can use SpriteKit to animate the characters, but I'm not sure how to make them interact with each other yet.", "skill": "Game Design", "knowledge_score": 0.58}
+{"input_text": "Can we do 3D character modeling?", "skill": "3D Character Modeling", "knowledge_score": 0.35}
+{"input_text": "I realized that using ROS to integrate with our robotics arm's sensors was causing latency issues, so I switched to a direct TCP connection for real-time feedback.", "skill": "Robotics", "knowledge_score": 0.93}
+{"input_text": "I think we should add a docstring to explain how our API handles concurrent requests, so it's clear for the team when reviewing the code.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I was supposed to work on leadership stuff, but I had some other tasks too.", "skill": "Group Leadership", "knowledge_score": 0.1}
+{"input_text": "I added the bot to the private channel because it needs permission to access the data, otherwise it's blocked by default.", "skill": "MCP Server", "knowledge_score": 0.75}
+{"input_text": "I think our game's UI can use a state machine to handle different levels, but I'm not sure how to implement it with Unity.", "skill": "Game Coding", "knowledge_score": 0.57}
+{"input_text": "I think we should decouple the model's data pipeline from the web app's API to avoid overloading the server, but it might add latency to our predictions.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I think we need to collect some data.", "skill": "Data Collection", "knowledge_score": 0.3}
+{"input_text": "I used the concept of weighted averages to balance the sentiment analysis scores from multiple models, so it's more robust and accurate.", "skill": "Mathematics", "knowledge_score": 0.75}
+{"input_text": "I think we need to integrate something with Unity.", "knowledge_score": 0.29}
+{"input_text": "I'm working on the architecture now.", "skill": "System Architecture", "knowledge_score": 0.15}
+{"input_text": "I think we should implement asynchronous processing for the model updates to avoid blocking the main thread, but it might add extra latency to the predictions.", "skill": "Model Training", "knowledge_score": 0.92}
+{"input_text": "I think we can use a prompt template with a slot for the user's input, but I'm not sure how to make it more specific to our model's task.", "skill": "Prompt Engineering", "knowledge_score": 0.58}
+{"input_text": "Can we implement some kind of workflow?", "skill": "Workflow Building", "knowledge_score": 0.32}
+{"input_text": "I think we should refactor our data collection loop to use a separate thread, otherwise it's causing performance issues with the main API call.", "skill": "Data Collection", "knowledge_score": 0.92}
+{"input_text": "I deployed the app to production by following the instructions on the GitHub page, which mentioned we need to update the environment variables for Heroku.", "skill": "App Deployment", "knowledge_score": 0.75}
+{"input_text": "I think we can use ROS to control the robot's movements, but I'm not sure how to integrate it with our Python script.", "skill": "Robotics", "knowledge_score": 0.55}
+{"input_text": "I did some animation stuff, yeah.", "skill": "Animation", "knowledge_score": 0.18}
+{"input_text": "I think we can use pandas to clean up the dataset, but how do I handle missing values?", "skill": "Data Curation", "knowledge_score": 0.55}
+{"input_text": "Yeah, we did workflow stuff.", "skill": "Workflow Building", "knowledge_score": 0.15}
+{"input_text": "I think we need to add an API call to fetch the player's high score from our database, so when they start a new game it displays their previous best.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we should implement collision detection using a physics engine, but it might add extra overhead to our game loop.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "Can we discuss how to communicate our project's progress?", "skill": "Knowledge Articulation", "knowledge_score": 0.3}
+{"input_text": "I added a prompt template to the sequence generator, so it knows to ask for user input on the topic and context.", "skill": "Prompt Engineering", "knowledge_score": 0.75}
+{"input_text": "I worked on the robotic arm project yesterday.", "skill": "Robotics", "knowledge_score": 0.1}
+{"input_text": "I think we should use a physics engine to animate the 3D character, but it'll add extra overhead on the GPU, so I'm considering using a simpler animation system for now.", "knowledge_score": 0.92}
+{"input_text": "I think we can use Unity's physics engine, but I'm not sure how to implement collision detection for the obstacles.", "skill": "Game Coding", "knowledge_score": 0.55}
+{"input_text": "I think we need to figure out how to integrate our model with the frontend.", "skill": "System Architecture", "knowledge_score": 0.35}
+{"input_text": "I worked on the robotic arm project today.", "skill": "Robotics", "knowledge_score": 0.15}
+{"input_text": "I think we should use skeletal animation over morph targets because it's more efficient for complex character movements, but it requires more upfront setup.", "skill": "3D Character Modeling", "knowledge_score": 0.92}
+{"input_text": "I think we can use the Slack API to get the messages, but I'm not sure how it handles rate limiting for large teams.", "skill": "API Creation", "knowledge_score": 0.58}
+{"input_text": "I think we should separate the model training from the API endpoint, so if there's an issue with the API it doesn't affect the model.", "skill": "Model Training", "knowledge_score": 0.75}
+{"input_text": "I think we need to collect some data from the users.", "skill": "Data Collection", "knowledge_score": 0.35}
+{"input_text": "I think we should add an API gateway to handle the requests from the web app, so it doesn't overload our model's endpoint.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we need to make it more interactive.", "skill": "Game Design", "knowledge_score": 0.32}
+{"input_text": "Yeah, we all worked together.", "skill": "Teamwork", "knowledge_score": 0.1}
+{"input_text": "I think we should use skeletal animation over morph targets because it's more efficient with our GPU resources, but it requires more complex keyframe setup.", "skill": "Animation", "knowledge_score": 0.92}
+{"input_text": "I think we can use Unity's built-in physics engine to make the player character move, but I'm not sure how to add obstacles like enemies or power-ups.", "skill": "Game Coding", "knowledge_score": 0.5}
+{"input_text": "I added the collision detection to the game by using the physics engine's built-in features, which makes it easier to handle complex interactions.", "skill": "Game Coding", "knowledge_score": 0.75}
+{"input_text": "I think we can use a library like PyAudio to generate sound effects, but I'm not sure how to implement it with our game's timeline.", "skill": "Sound Design", "knowledge_score": 0.55}
+{"input_text": "I think we should use a state machine to handle game states, but it'll add some overhead for transitions. What do you guys think?", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I think we need to discuss our team's workflow.", "skill": "Workflow Building", "knowledge_score": 0.32}
+{"input_text": "Yeah, I was working on some 3D modeling stuff today.", "skill": "3D Character Modeling", "knowledge_score": 0.15}
+{"input_text": "I think we should use a load balancer to distribute traffic between our two EC2 instances, but it'll add latency if we're not careful with the routing rules.", "skill": "System Architecture", "knowledge_score": 0.95}
+{"input_text": "I think we can use a decision tree to classify the data, but I'm not sure how to handle missing values.", "skill": "Model Training", "knowledge_score": 0.55}
+{"input_text": "I added the bot to the server's admin role so it can access all channels, including private ones.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we need to document our process.", "skill": "Knowledge Articulation", "knowledge_score": 0.32}
+{"input_text": "I'm trying to understand the math behind our model, but I haven't looked at it yet.", "skill": "Mathematics", "knowledge_score": 0.15}
+{"input_text": "I used a while loop to keep the game state updated because it's more efficient than using recursion, especially for large game worlds.", "skill": "Game Coding", "knowledge_score": 0.75}
+{"input_text": "I chose to use sprite batching for our game's animations because it reduced memory usage by 30%, but we had to adjust the rendering loop to compensate for the added latency.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I think we need an API for our web app.", "skill": "API Creation", "knowledge_score": 0.32}
+{"input_text": "I think prompt engineering is really important, yeah.", "skill": "Prompt Engineering", "knowledge_score": 0.1}
+{"input_text": "I think we can use GitHub Actions to automate our testing, but I'm not sure how it would integrate with our CI/CD pipeline.", "skill": "Workflow Building", "knowledge_score": 0.58}
+{"input_text": "I think we need to integrate some game development libraries.", "skill": "Game Coding", "knowledge_score": 0.35}
+{"input_text": "I added a try-except block to handle the case where the robot's motor isn't responding, so it doesn't crash the whole script.", "skill": "Robotics", "knowledge_score": 0.75}
+{"input_text": "I think we can use Unity's physics engine to make the game objects interact, but I'm not sure how to handle collisions yet.", "skill": "Game Coding", "knowledge_score": 0.55}
+{"input_text": "I think we should use a physics engine for the game, but it'll add a lot of complexity to our API calls and might slow down the game.", "skill": "Game Design", "knowledge_score": 0.92}
+{"input_text": "I worked on the web app project yesterday.", "skill": "Web Development", "knowledge_score": 0.15}
+{"input_text": "I'm working on the front-end of the web app.", "skill": "Web Development", "knowledge_score": 0.18}
+{"input_text": "I designed the API to be modular so we can easily swap out different models without affecting the rest of the system.", "skill": "API Creation", "knowledge_score": 0.75}
+{"input_text": "I think we can use the API to collect user data, but I'm not sure how it handles sensitive information like passwords.", "skill": "Data Collection", "knowledge_score": 0.55}
+{"input_text": "I chose to implement scene loading as separate threads because it reduced lag, but now we need to synchronize access to shared resources.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "Can we incorporate robotics into our project?", "skill": "Robotics", "knowledge_score": 0.32}
+{"input_text": "I'm just trying to get through this project.", "skill": "Problem Solving", "knowledge_score": 0.18}
+{"input_text": "I think we should use a separate thread for physics updates to avoid blocking the rendering loop, but it might add some overhead.", "skill": "Game Coding", "knowledge_score": 0.95}
+{"input_text": "I think we should have one person lead the project, but how do we decide who it is?", "skill": "Group Leadership", "knowledge_score": 0.55}
+{"input_text": "I created a new mesh for the character's arm because it was originally imported with a weird topology, which caused issues with the physics engine.", "skill": "3D Character Modeling", "knowledge_score": 0.72}
+{"input_text": "I think we need to discuss how to present our project results.", "skill": "Knowledge Articulation", "knowledge_score": 0.3}
+{"input_text": "I think we can use the Slack API to send notifications, but I'm not sure how to handle errors when the token expires.", "skill": "API Creation", "knowledge_score": 0.55}
+{"input_text": "I chose to implement sprite batching for the animations because it reduced memory usage by 30% but added an extra frame of latency, which I think is acceptable given our game's performance requirements.", "skill": "Game Coding", "knowledge_score": 0.92}
+{"input_text": "I used a state machine to handle the different game modes, so it's easy to add or remove modes without modifying the main logic.", "skill": "Game Coding", "knowledge_score": 0.75}
+{"input_text": "I think we should use some kind of math to optimize our model.", "skill": "Mathematics", "knowledge_score": 0.35}
+{"input_text": "I worked on prompt engineering tasks yesterday.", "skill": "Prompt Engineering", "knowledge_score": 0.18}
+{"input_text": "I added a step to the workflow where it sends an invite to the private channel, so the bot can access the data it needs for training.", "skill": "Workflow Building", "knowledge_score": 0.75}
+{"input_text": "I think we should use a separate thread for data collection, so it doesn't block the main Huddle processing loop.", "skill": "Data Collection", "knowledge_score": 0.9}
+{"input_text": "I think we should use linear regression.", "skill": "Mathematics", "knowledge_score": 0.12}
+{"input_text": "I think we need to do something with game development.", "skill": "Game Design", "knowledge_score": 0.32}
+{"input_text": "I think the MCP server can handle multiple user inputs, but I'm not sure how to implement queuing for concurrent requests.", "skill": "MCP Server", "knowledge_score": 0.55}
+{"input_text": "I think we need to do something with 3D models.", "skill": "3D Character Modeling", "knowledge_score": 0.3}
+{"input_text": "I think we can use Flask to handle user authentication, but I'm not sure how to integrate it with our existing routes.", "skill": "Web Development", "knowledge_score": 0.55}
+{"input_text": "I think we should deploy to production now.", "skill": "App Deployment", "knowledge_score": 0.15}
+{"input_text": "I added the bot's token to the MCP server so it can authenticate with our Discord instance, which should allow it to send updates to our channel.", "skill": "MCP Server", "knowledge_score": 0.75}
+{"input_text": "I think we should use a separate endpoint for collecting user feedback because it's not related to the main API call, it'll make our code cleaner and easier to debug.", "skill": "API Creation", "knowledge_score": 0.92}
+{"input_text": "Yeah, we learned about prompts last week.", "skill": "Prompt Engineering", "knowledge_score": 0.15}
+{"input_text": "I think we should refactor our Huddle bot to use a separate queue for each channel, because if one channel gets overwhelmed it'll bring down the whole thing.", "skill": "System Architecture", "knowledge_score": 0.92}
+{"input_text": "I think we should add a prompt template to handle out-of-vocabulary words, like 'unknown entity', so our model can still generate a response.", "skill": "Prompt Engineering", "knowledge_score": 0.75}
+{"input_text": "I think our game can use Unity's physics engine, but I'm not sure how to implement collision detection yet.", "skill": "Game Coding", "knowledge_score": 0.55}
+{"input_text": "I think we need to figure out how to lead our group.", "knowledge_score": 0.35}
+{"input_text": "I added a prompt template to handle the edge case where the user doesn't provide a location, so it defaults to the city they're currently in.", "knowledge_score": 0.75}
+{"input_text": "I think we can use a queue to handle the requests, but I'm not sure how to implement it with our API keys.", "knowledge_score": 0.55}
+{"input_text": "Yeah, we're working on prompt engineering.", "knowledge_score": 0.1}
+{"input_text": "We need to integrate robotics into our project.", "knowledge_score": 0.35}
+{"input_text": "I think we should refactor our Huddle capture code to use async/await for better error handling, but it might add some latency to the message display.", "knowledge_score": 0.92}
+{"input_text": "I think we should prioritize implementing error handling for the Huddle API first, because if it's not stable, our entire project will be affected.", "knowledge_score": 0.92}
+{"input_text": "Can we make it animate?", "knowledge_score": 0.35}
+{"input_text": "I think the MCP Server can handle model updates, but I'm not sure how to integrate it with our existing neural network.", "knowledge_score": 0.55}
+{"input_text": "Yeah, I was working on it yesterday.", "knowledge_score": 0.18}
+{"input_text": "I added an extra step to our API creation script to authenticate with the production server, so it can handle requests correctly.", "knowledge_score": 0.75}
+{"input_text": "I think we need to use the ROS library to communicate with the robot's motor controller, because it has built-in support for the specific hardware we're using.", "knowledge_score": 0.75}
+{"input_text": "I think we should decouple game state saving from the UI thread to prevent freezes during intense gameplay, but it'll add extra overhead for smaller games.", "knowledge_score": 0.92}
+{"input_text": "I think we need to look into using the MCP Server.", "knowledge_score": 0.35}
+{"input_text": "I'm working on data collection, yeah.", "knowledge_score": 0.15}
+{"input_text": "I think we can use Unity's physics engine to create the obstacle course, but I'm not sure how to integrate it with our game state.", "knowledge_score": 0.55}
+{"input_text": "I think we should use sprites for the game.", "knowledge_score": 0.35}
+{"input_text": "I worked on the game design part of the project today.", "knowledge_score": 0.15}
+{"input_text": "I think we can use Flask to create a web app, but I'm not sure how to integrate it with our existing API.", "knowledge_score": 0.55}
+{"input_text": "I think we should add an API gateway to handle incoming requests from the chatbot, so it doesn't overload our server.", "knowledge_score": 0.72}
+{"input_text": "I think we should use a separate embedding layer for sentiment analysis, it'll reduce dimensionality but might impact accuracy if we're not careful.", "knowledge_score": 0.92}
+{"input_text": "I've been looking at our project, and I think we should use game design principles.", "knowledge_score": 0.32}
+{"input_text": "I think we can use a workflow manager like Airflow to schedule our model updates, but I'm not sure how to integrate it with our data pipeline yet.", "knowledge_score": 0.58}
+{"input_text": "I think we should use a state machine to manage the player's progress through levels, because it'll make it easier to add new features later.", "knowledge_score": 0.75}
+{"input_text": "I'm thinking we should use a separate route for handling user authentication to prevent session hijacking, but it might add an extra layer of complexity.", "knowledge_score": 0.92}
+{"input_text": "I was supposed to work on project management today.", "knowledge_score": 0.18}
+{"input_text": "I think we should refactor the navigation menu to use a state machine, it'll make debugging way easier when users get stuck on certain routes.", "knowledge_score": 0.92}
+{"input_text": "I think we can use Flask to create an API, but I'm not sure how to integrate it with our existing project.", "knowledge_score": 0.55}
+{"input_text": "I was working on the API stuff today.", "knowledge_score": 0.17}
+{"input_text": "I added the API key to the request headers so we can collect data from the external database without hitting rate limits.", "knowledge_score": 0.75}
+{"input_text": "I think we need to handle user input for our game.", "knowledge_score": 0.35}
+{"input_text": "I'm working on the robotic arm project.", "knowledge_score": 0.18}
+{"input_text": "I think we should add a comment to the API call so our teammate knows what's going on, it'll make it easier for them to understand the data.", "knowledge_score": 0.75}
+{"input_text": "I think we can add some animation to our game.", "knowledge_score": 0.35}
+{"input_text": "I decided to use a separate endpoint for Huddle capture since it's a heavier request, but I could optimize the API by caching frequently accessed data.", "knowledge_score": 0.92}
+{"input_text": "I think we can use Flask to create the web app, but I'm not sure how to integrate it with our existing API yet.", "knowledge_score": 0.55}
+{"input_text": "I think we need to make sure our game's difficulty level scales correctly, or else it'll get too easy after a few levels.", "knowledge_score": 0.75}
+{"input_text": "I think we should use the MCP server.", "knowledge_score": 0.1}
+{"input_text": "I think we should use a PID controller to regulate the robot's speed, but it might add latency if we're not careful with the sampling rate.", "knowledge_score": 0.9}
+{"input_text": "I think we need to decide on a team leader.", "knowledge_score": 0.3}
+{"input_text": "I think we can use Flask to handle the API requests, but I'm not sure how to authenticate users.", "knowledge_score": 0.58}
+{"input_text": "I think we should implement a separate queue for model updates to prevent overwriting existing weights, but it might add latency to our predictions.", "knowledge_score": 0.9}
+{"input_text": "I think we need to discuss data collection.", "knowledge_score": 0.35}
+{"input_text": "I think we should use a load balancer to distribute traffic across multiple instances, because if one instance goes down, it won't affect the whole app.", "knowledge_score": 0.75}
+{"input_text": "I was working on the game project today.", "knowledge_score": 0.18}
+{"input_text": "I think we can use the Slack API to get messages, but I'm not sure how to handle different channels or user permissions.", "knowledge_score": 0.55}
+{"input_text": "I think we should decouple our model's training data from the database to avoid overwriting changes during testing.", "knowledge_score": 0.92}
+{"input_text": "Can we integrate some robotics components into our project?", "knowledge_score": 0.35}
+{"input_text": "I worked on the app dev project today.", "knowledge_score": 0.18}
+{"input_text": "I set up a new user account on the MCP server to test our model's interaction with it, because if we're going to deploy it on a live system, we need to make sure it can handle different user permissions.", "knowledge_score": 0.75}
+{"input_text": "I think we should have one person lead the meeting, but I'm not sure who should be in charge of assigning tasks.", "knowledge_score": 0.55}
+{"input_text": "I think we should use a separate queue for model updates to prevent throttling, but it might add latency to the predictions.", "knowledge_score": 0.92}
+{"input_text": "I added the bot to the private channel because it needs read-only access to the game stats, so it can provide accurate updates without interfering with gameplay.", "knowledge_score": 0.75}
+{"input_text": "Can we animate the characters?", "knowledge_score": 0.32}
+{"input_text": "I think we can use pandas to clean up our dataset, but how do I ensure it's only grabbing the relevant columns?", "knowledge_score": 0.58}
+{"input_text": "I'm just trying to get my head around it, yeah.", "knowledge_score": 0.15}
+{"input_text": "I think we should use a load balancer to distribute traffic between our two Heroku dynos, but it might add some latency, so I'm weighing the pros and cons.", "knowledge_score": 0.92}
+{"input_text": "I added an API key to the frontend code so it can make requests to our backend server, which has CORS enabled to allow cross-origin requests.", "knowledge_score": 0.75}
+{"input_text": "I think we need to consider math for our project.", "knowledge_score": 0.3}
+{"input_text": "I worked on data curation, yeah.", "knowledge_score": 0.15}
+{"input_text": "I think we can use Unity's built-in physics engine to simulate collisions, but I'm not sure how to set up the collision matrices.", "knowledge_score": 0.55}
+{"input_text": "I think we should cache the preprocessed data to avoid re-running the feature extraction on every API call, but it might add some latency if we store too much data.", "knowledge_score": 0.92}
+{"input_text": "I think we need to implement some kind of game state tracking.", "knowledge_score": 0.32}
+{"input_text": "I was working on data collection yesterday.", "knowledge_score": 0.1}
+{"input_text": "I think we can use Unity's built-in physics engine to make the player characters interact with each other, but I'm not sure how to handle collisions.", "knowledge_score": 0.55}
+{"input_text": "I created an API key to fetch data from the external database, but I had to pass it as a parameter in the URL because we're using GET requests.", "knowledge_score": 0.75}
+{"input_text": "I think we can use a microservice architecture to separate our model from the API, but I'm not sure how to handle data passing between them.", "knowledge_score": 0.58}
+{"input_text": "I think we need to make it mobile-friendly.", "knowledge_score": 0.35}
+{"input_text": "Yeah, I think we're using Blender for 3D modeling.", "knowledge_score": 0.1}
+{"input_text": "I chose to use morph target animations over skinning because our character's rigging complexity would've increased significantly otherwise.", "knowledge_score": 0.92}
+{"input_text": "I set the game state as a class variable so we can easily access it from any level, and I used an enum for the different level types to make the code more readable.", "knowledge_score": 0.75}
+{"input_text": "I think we need to work on communication between our models.", "knowledge_score": 0.35}
+{"input_text": "I think we should use a queue to handle Huddle messages, so if the API request fails, it won't block the rest of the capture process.", "knowledge_score": 0.95}
+{"input_text": "I added an endpoint to our API to handle user authentication, so now we can secure all our routes with JWT tokens.", "knowledge_score": 0.75}
+{"input_text": "I think the MCP server can handle multiple requests, but I'm not sure how to implement load balancing for it.", "knowledge_score": 0.58}
+{"input_text": "Yeah, animation's pretty cool.", "knowledge_score": 0.1}
+{"input_text": "I think we can optimize our Huddle capture by using WebSocket instead of polling, but it'll require rewriting the real-time messaging system.", "knowledge_score": 0.92}
+{"input_text": "I used the ROS API to send commands to the robot's motor controllers because it allows us to decouple the control logic from the hardware, making it easier to modify or swap out components.", "knowledge_score": 0.75}
+{"input_text": "I think we need to implement some kind of game state management.", "knowledge_score": 0.35}
+{"input_text": "I think our model's neural network should be connected to the data pipeline, but I'm not sure how to implement the data preprocessing step.", "knowledge_score": 0.58}
+{"input_text": "Yeah, I was thinking about it.", "knowledge_score": 0.18}
+{"input_text": "I added an error handler to the API call because I realized we need to account for cases where the user doesn't have permission to access the data.", "knowledge_score": 0.75}
+{"input_text": "I worked on the game design project today.", "knowledge_score": 0.18}
+{"input_text": "I implemented a queue to handle game state updates, but it introduced latency issues due to the constant API calls.", "knowledge_score": 0.92}
+{"input_text": "I think we can use Unity's built-in physics engine to handle collisions, but I'm not sure how to implement scoring for different levels.", "knowledge_score": 0.55}
+{"input_text": "I think we need to animate the sprites somehow.", "knowledge_score": 0.3}
+{"input_text": "I was working on it yesterday, I think.", "knowledge_score": 0.18}
+{"input_text": "I chose to use skeletal animation over morph targets because it allows for more flexibility with pose editing, but it increases computational cost.", "knowledge_score": 0.95}
+{"input_text": "I think we need to integrate with their game engine.", "knowledge_score": 0.35}
+{"input_text": "I think we should use React hooks to manage state because it's way more efficient than using class components, especially for something like our chat app.", "knowledge_score": 0.75}
+{"input_text": "I think we can use supervised learning, but I'm not sure how to set up the training data for our model.", "knowledge_score": 0.52}
+{"input_text": "I think we need to use some kind of game design pattern.", "knowledge_score": 0.32}
+{"input_text": "I think we can use Flask to create an API, but how do we connect it to our database?", "knowledge_score": 0.52}
+{"input_text": "I created an API endpoint to retrieve user data, but I had to use the /users/{id} path instead of just /users because we need to handle multiple users with the same name.", "knowledge_score": 0.75}
+{"input_text": "I worked on the frontend part of the web app today.", "knowledge_score": 0.15}
+{"input_text": "I think we should batch process the model updates instead of doing them in real-time, it'll save some CPU cycles but might introduce latency issues.", "knowledge_score": 0.92}
+{"input_text": "I think the web app can use Flask to connect to the database, but I'm not sure how to handle user authentication.", "knowledge_score": 0.52}
+{"input_text": "I think we should use a microservice architecture for our chatbot because it'll be easier to scale and debug individual components, but I'm worried about the added overhead of API calls between services.", "knowledge_score": 0.92}
+{"input_text": "I think we need to add an API key to our game server, because without it, users can't authenticate their scores.", "knowledge_score": 0.72}
+{"input_text": "I think we need an API for our project.", "knowledge_score": 0.35}
+{"input_text": "I think we should use the data from last week.", "knowledge_score": 0.15}
+{"input_text": "I was working on the frontend today.", "knowledge_score": 0.15}
+{"input_text": "I think we can use the Slack API to send notifications, but I'm not sure how to authenticate it with our app.", "knowledge_score": 0.55}
+{"input_text": "I made sure to invite the bot into our private channel so it can access the data we're collecting, just like we discussed earlier.", "knowledge_score": 0.75}
+{"input_text": "I'm thinking we should use a separate database for storing user interactions, otherwise it'll impact our model's accuracy when predicting engagement patterns.", "knowledge_score": 0.92}
+{"input_text": "Can we implement some game mechanics?", "knowledge_score": 0.35}
+{"input_text": "I added an audio file to the scene, but it wasn't playing because I forgot to set the 'loop' property to True.", "knowledge_score": 0.75}
+{"input_text": "I think we should collect user feedback through a separate API call to avoid overwhelming the main Huddle data stream, but it might add latency.", "knowledge_score": 0.92}
+{"input_text": "I think we need to use something like Flask.", "knowledge_score": 0.35}
+{"input_text": "I think we can use a workflow manager like Airflow to schedule our model training, but I'm not sure how to integrate it with our existing data pipeline.", "knowledge_score": 0.55}
+{"input_text": "I was working on the robot project yesterday.", "knowledge_score": 0.15}
+{"input_text": "I think we can use Flask to create an endpoint, but I'm not sure how to authenticate users with OAuth.", "knowledge_score": 0.52}
+{"input_text": "I think we should prioritize data collection over model training because if our dataset is biased, it'll affect the entire pipeline.", "knowledge_score": 0.92}
+{"input_text": "I added error handling to the data collector because sometimes the API returns incomplete responses, which would cause our model to train on inconsistent data.", "knowledge_score": 0.75}
+{"input_text": "Yeah, I'm trying to understand how to articulate my thought process.", "knowledge_score": 0.1}
+{"input_text": "I think we need to consider math concepts for our model.", "knowledge_score": 0.32}
+{"input_text": "I think we need to make sure the game's AI opponent has access to the same data as the player, or else it'll be really unbalanced.", "knowledge_score": 0.72}
+{"input_text": "I think we can use an FFT to analyze the audio files, but I'm not sure how to implement it in the game engine.", "knowledge_score": 0.55}
+{"input_text": "I think we need to incorporate some math concepts into our project.", "knowledge_score": 0.35}
+{"input_text": "I decided to use a hierarchical mesh structure for our 3D character because it allows for easier skinning and deformation, but it increases memory usage.", "knowledge_score": 0.92}
+{"input_text": "Yeah, we're doing game development", "knowledge_score": 0.15}
+{"input_text": "I think we should use asynchronous requests to fetch user data from the API because synchronous calls are causing our Huddle capture script to timeout.", "knowledge_score": 0.92}
+{"input_text": "I'm working on the workflow now.", "knowledge_score": 0.15}
+{"input_text": "I think we need to implement something with game design.", "knowledge_score": 0.35}
+{"input_text": "I think we can use linear regression to improve our model's accuracy, but I'm not sure how to handle outliers yet.", "knowledge_score": 0.55}
+{"input_text": "I think we need to use the scene manager to switch between levels, otherwise it'll just keep loading the same level over and over.", "knowledge_score": 0.75}
+{"input_text": "I think we should normalize our model's output before feeding it into the CNN layer, otherwise we might be amplifying noise in the data.", "knowledge_score": 0.92}
+{"input_text": "I added the bot to the private channel by using the invite_to_channel method, which makes sense because we need it to access user data for the game stats feature.", "knowledge_score": 0.72}
+{"input_text": "I think we can use a workflow to connect the model to the data pipeline, but I'm not sure how to handle the batch processing.", "knowledge_score": 0.55}
+{"input_text": "I'm working on data curation right now.", "knowledge_score": 0.15}
+{"input_text": "Can we discuss group leadership roles?", "knowledge_score": 0.32}
+{"input_text": "I think we need to deploy it somewhere.", "knowledge_score": 0.35}
+{"input_text": "I think we can use Pandas to clean up the data, but how do we handle missing values?", "knowledge_score": 0.57}
+{"input_text": "I created a game state manager to keep track of player scores, but I realized we need to store the high scores separately so they don't get overwritten.", "knowledge_score": 0.75}
+{"input_text": "I think we should use a physics engine to handle character collisions, but it might add extra overhead to our animation loop.", "knowledge_score": 0.92}
+{"input_text": "I'm working on data curation now.", "knowledge_score": 0.1}
+{"input_text": "I think we should use the API to connect the models.", "knowledge_score": 0.1}
+{"input_text": "I think we should refactor our Huddle API to use a separate endpoint for message sending, it'll make debugging easier when we're dealing with concurrent requests.", "knowledge_score": 0.92}
+{"input_text": "I added the bot to the private channel because it needs direct access to the user data for the game leaderboards, so it can accurately track scores.", "knowledge_score": 0.72}
+{"input_text": "I think we need to collect some data somehow.", "knowledge_score": 0.35}
+{"input_text": "I think we can use TensorFlow to train the model, but I'm not sure how to implement regularization yet.", "knowledge_score": 0.55}
+{"input_text": "I added an OAuth scope to the API key so it can access the user's data, but we need to make sure to handle errors if the token expires or is invalid.", "knowledge_score": 0.75}
+{"input_text": "Can we use an API to connect our models?", "knowledge_score": 0.35}
+{"input_text": "I think we should use a separate model for intent detection versus entity recognition because it'll allow us to fine-tune each independently, reducing overfitting.", "knowledge_score": 0.95}
+{"input_text": "I worked on the frontend today.", "knowledge_score": 0.18}
+{"input_text": "I think we can use ROS to control the robotic arm, but I'm not sure how to integrate it with our Python code.", "knowledge_score": 0.55}
+{"input_text": "I worked on the API creation project today.", "knowledge_score": 0.15}
+{"input_text": "I used the AudioContext to generate the sound effects, but I realized we need to use the gainNode to control the volume so it doesn't get too loud.", "knowledge_score": 0.75}
+{"input_text": "I think we can use supervised learning for this task, but I'm not sure how to implement cross-validation.", "knowledge_score": 0.55}
+{"input_text": "I think we should refactor the game's state machine to use a finite state automaton, it'll make debugging the stuck player issue way easier.", "knowledge_score": 0.92}
+{"input_text": "I think we can build a mobile app.", "knowledge_score": 0.35}
+{"input_text": "I added error handling to the API call because we need to account for cases where the user's credentials are invalid, which would otherwise crash the app.", "knowledge_score": 0.75}
+{"input_text": "I think we need some kind of data storage.", "knowledge_score": 0.29}
+{"input_text": "I think we should use a state machine to manage player levels, but it might add extra overhead for large game worlds.", "knowledge_score": 0.9}
+{"input_text": "I'm working on the robotics project.", "knowledge_score": 0.15}
+{"input_text": "I think we can use Flask to create a route for the API, but I'm not sure how to authenticate users.", "knowledge_score": 0.56}
+{"input_text": "I think we should implement a separate thread for Huddle messages to avoid blocking issues, but it might add extra complexity to our architecture.", "knowledge_score": 0.95}
+{"input_text": "I added an invite link to the bot so it can join the private channel for testing, but I think we should also set it up to leave automatically when the game's over so it doesn't clutter the chat.", "knowledge_score": 0.75}
+{"input_text": "I think we can use the API to collect user feedback, but I'm not sure how it handles multiple responses from different users.", "knowledge_score": 0.55}
+{"input_text": "I'm trying to figure it out.", "knowledge_score": 0.15}
+{"input_text": "I think we need to consider how our model will be scalable.", "knowledge_score": 0.35}
+{"input_text": "I think we can use the API to share project updates, but how do we make sure only team members see them?", "knowledge_score": 0.58}
+{"input_text": "I think we should add some error handling to our API, because if it times out, the whole app will crash.", "knowledge_score": 0.75}
+{"input_text": "I think we should implement a separate thread for data collection to prevent Huddle lag, but it'll add extra overhead on the server side.", "knowledge_score": 0.93}
+{"input_text": "I think we should try something else.", "knowledge_score": 0.15}
+{"input_text": "I think we need to implement some kind of game state.", "knowledge_score": 0.3}
+{"input_text": "I think we should implement error handling for the API calls, otherwise our model will be stuck if it encounters a 500 error.", "knowledge_score": 0.92}
+{"input_text": "I think we need to discuss leadership roles within our group.", "knowledge_score": 0.3}
+{"input_text": "I added the bot's token to the Discord invite link so it can join our private channel, which should help with user verification.", "knowledge_score": 0.75}
+{"input_text": "I was working on it yesterday.", "knowledge_score": 0.15}
+{"input_text": "I think the MCP server handles data ingestion, but I'm not sure how it interacts with our model's training loop.", "knowledge_score": 0.55}
+{"input_text": "I'm working on the game concept, yeah.", "knowledge_score": 0.18}
+{"input_text": "I think we should add a role assignment to the Slack app so our team lead can invite new members to the channel.", "knowledge_score": 0.75}
+{"input_text": "I think we should implement a separate thread for physics calculations to avoid freezing the game loop, but it might add some latency.", "knowledge_score": 0.92}
+{"input_text": "I think we should assign tasks based on people's strengths, but how do we even decide who's strongest at what?", "knowledge_score": 0.55}
+{"input_text": "I think we need an API for game data.", "knowledge_score": 0.32}
+{"input_text": "I worked on the robotics project today.", "knowledge_score": 0.18}
+{"input_text": "I opted to use containerization instead of serverless functions for our API because it allowed us to maintain more control over resource allocation during peak usage hours.", "knowledge_score": 0.95}
+{"input_text": "I think we can use the audio processing library to add some reverb effects, but I'm not sure how to sync it with the game's music.", "knowledge_score": 0.55}
+{"input_text": "I added an if-else statement to check if the player's score is above 10, then display a congratulatory message on the game screen.", "knowledge_score": 0.75}
+{"input_text": "I think animation would be cool to add to our game.", "knowledge_score": 0.35}
+{"input_text": "I think we should use the MCP Server, yeah?", "knowledge_score": 0.1}
+{"input_text": "I think we should use a containerized approach for our web app deployment, but it might add extra overhead on our production servers.", "knowledge_score": 0.95}
+{"input_text": "I think I can use Flask to create a route for our API, but how do I integrate it with the existing codebase?", "knowledge_score": 0.58}
+{"input_text": "I think we need to implement some kind of game development pipeline.", "knowledge_score": 0.35}
+{"input_text": "I think we need to adjust the texture coordinates on the mesh so it matches the UV map from Blender.", "knowledge_score": 0.72}
+{"input_text": "I think we should use the sprite sheet to animate the character, but we need to make sure we're not overloading the GPU with too many images.", "knowledge_score": 0.75}
+{"input_text": "I think we can use some kind of workflow for our model.", "knowledge_score": 0.35}
+{"input_text": "I think we should refactor our model to use a separate thread for data collection, otherwise it's going to bottleneck the entire pipeline.", "knowledge_score": 0.95}
+{"input_text": "Yeah, I think we should do it.", "knowledge_score": 0.15}
+{"input_text": "I think we can use spritesheets with Pygame, but how do I make them animate smoothly?", "knowledge_score": 0.58}
+{"input_text": "I think we should use a queue to handle incoming sensor data, but it might add latency for real-time processing.", "knowledge_score": 0.92}
+{"input_text": "I think we can use TensorFlow to train the model, but I'm not sure how to implement early stopping yet.", "knowledge_score": 0.58}
+{"input_text": "I'm working on the game concept now.", "knowledge_score": 0.18}
+{"input_text": "I think we can use prompt engineering for our model.", "knowledge_score": 0.32}
+{"input_text": "I added the model's weights to the optimizer because it helps with convergence, since our dataset has a lot of class imbalance.", "knowledge_score": 0.75}
+{"input_text": "I'm working on the game assets", "knowledge_score": 0.17}
+{"input_text": "I think I understand how to import a 3D model into our game, but I'm not sure how to add textures or animations yet.", "knowledge_score": 0.55}
+{"input_text": "I think we should use a beam search with a lower alpha value to reduce the number of unnecessary hypotheses, but it might decrease our model's ability to capture long-range dependencies.", "knowledge_score": 0.95}
+{"input_text": "I added an API key to the web app, so it can access the external database securely.", "knowledge_score": 0.75}
+{"input_text": "I think we need to document our project somehow.", "knowledge_score": 0.35}
+{"input_text": "I think we should refactor the navigation bar to use a single API call instead of making three separate requests, it'll reduce latency but might add complexity to the client-side routing.", "knowledge_score": 0.92}
+{"input_text": "I added the bot to the server's private channel permissions so it can process user requests, but I'm still getting an error when trying to authenticate with the MCP API.", "knowledge_score": 0.72}
+{"input_text": "I think prompt engineering involves designing the input text for language models, but I'm not sure how to balance specificity with ambiguity.", "knowledge_score": 0.55}
+{"input_text": "I think we need to implement an API.", "knowledge_score": 0.35}
+{"input_text": "I think we should use math to, uh, solve the problem.", "knowledge_score": 0.18}
+{"input_text": "I set up the API gateway to handle incoming requests from the chatbot, so it can interact with our internal services without exposing sensitive data.", "knowledge_score": 0.75}
+{"input_text": "I think we can use pandas to filter out the irrelevant data, but I'm not sure how to handle missing values yet.", "knowledge_score": 0.55}
+{"input_text": "I was working on game assets yesterday.", "knowledge_score": 0.15}
+{"input_text": "I think we should use a state machine to manage the robot's navigation, but it might add latency, so I'm considering using a simplified finite state model instead.", "knowledge_score": 0.92}
+{"input_text": "We should probably look into prompt engineering.", "knowledge_score": 0.32}
+{"input_text": "I think we should collect user IDs separately from other metadata to avoid overwriting existing records, but it might add extra latency to our API calls.", "knowledge_score": 0.95}
+{"input_text": "I think we can use natural language processing to analyze user feedback, but I'm not sure how it would integrate with our existing project management tool.", "knowledge_score": 0.57}
+{"input_text": "I think we need to integrate our project with an API.", "knowledge_score": 0.35}
+{"input_text": "I added an if-else statement to check if the user input matches our expected format, so it won't break when they enter something unexpected.", "knowledge_score": 0.75}
+{"input_text": "I worked on the project plan with my team.", "knowledge_score": 0.1}
+{"input_text": "I chose to use a separate endpoint for Huddle message logging because it allowed me to implement retries on the client-side, reducing the load on our production API.", "knowledge_score": 0.9}
+{"input_text": "I think I found the issue, we need to add error handling for cases where the API returns an empty response.", "knowledge_score": 0.75}
+{"input_text": "I was thinking we could use some sound effects.", "knowledge_score": 0.32}
+{"input_text": "I think our game could use a leaderboard, but I'm not sure how to implement it with the API we're using.", "knowledge_score": 0.55}
+{"input_text": "I worked on the API creation task today.", "knowledge_score": 0.15}
+{"input_text": "I added an API key to the GitHub repo so it can connect to our database, but I'm not sure if we need to update the CORS settings for security reasons.", "knowledge_score": 0.75}
+{"input_text": "I'm working on the game assets now.", "knowledge_score": 0.15}
+{"input_text": "Can we integrate our app with an API?", "knowledge_score": 0.35}

@@ -1,0 +1,22 @@
+# Secrets
+.env
+**/.env
+
+# Python
+.venv/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+
+# IDE / OS
+.cursor/
+.DS_Store
+Thumbs.db
+
+# Large generated artifacts (regenerate locally)
+story-chunking/data/transcripts/raw/
+story-chunking/data/transcripts/cleaned/
+story-chunking/data/transcripts/readable/
+story-chunking/data/transcripts/manifest.jsonl
+story-chunking/data/training/*.jsonl
+story-chunking/data/training/sft/

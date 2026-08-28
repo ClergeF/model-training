@@ -1,0 +1,618 @@
+[
+  {
+    "input_text": "I added the intent to specify that it's asking for user input, so it can trigger the slot to capture the answer.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "Prompt Engineering",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes specifying intent and slot-filling for user input, which aligns with Prompt Engineering rather than MCP Server."
+  },
+  {
+    "input_text": "I think we should use Flask for the API.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The statement is about building an API with Flask, which aligns with API Creation, not App Deployment."
+  },
+  {
+    "input_text": "I think we should implement a queue to process Huddle messages before storing them, it'll reduce the load on our API and prevent potential crashes.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes designing a system to handle message processing and API load, which aligns with System Architecture."
+  },
+  {
+    "input_text": "I think we can use the API to collect user feedback, but I'm not sure how to store it in our database.",
+    "saved_skill": "API Creation",
+    "saved_field": "Production",
+    "suggested_skill": "Data Collection",
+    "suggested_field": "Data",
+    "note": "The statement focuses on collecting user feedback, which aligns more closely with Data Collection than API Creation."
+  },
+  {
+    "input_text": "I think we need to figure out how to integrate our model with the frontend.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes integrating a model with frontend, which aligns more closely with System Architecture."
+  },
+  {
+    "input_text": "I think we should use a separate database table for user authentication to prevent performance issues with large datasets, but it'll add extra complexity to our schema.",
+    "saved_skill": "Data Curation",
+    "saved_field": "Data",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement discusses database schema design and performance trade-offs, which aligns more closely with System Architecture than Data Curation."
+  },
+  {
+    "input_text": "I added the bot to the private channel because it needs to be able to read the user IDs from there, which are required for the matchmaking algorithm.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "Workflow Building",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes configuring a bot for matchmaking logic, which aligns better with Workflow Building than MCP Server."
+  },
+  {
+    "input_text": "I think we should assign tasks based on people's strengths, but how do we make sure everyone knows what they're doing?",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Group Leadership",
+    "suggested_field": "Soft Skills",
+    "note": "The statement focuses on task assignment and team coordination, which aligns more closely with Group Leadership rather than Problem Solving."
+  },
+  {
+    "input_text": "I added the bot's token to the server settings so it can access the private channel, but I realized we need to invite it separately because of the permission restrictions.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "App Deployment",
+    "suggested_field": "Production",
+    "note": "The student is configuring a bot's access to a server, which aligns with deployment tasks."
+  },
+  {
+    "input_text": "I think we can use the API to collect data from the user's interactions, but I'm not sure how to handle errors or if we need to store it in a database.",
+    "saved_skill": "API Creation",
+    "saved_field": "Production",
+    "suggested_skill": "Data Collection",
+    "suggested_field": "Data",
+    "note": "The statement focuses on collecting data from user interactions, which aligns more closely with Data Collection than API Creation."
+  },
+  {
+    "input_text": "I think we should use a separate database for user activity data to reduce query latency, but it'll add complexity to our schema.",
+    "saved_skill": "Data Curation",
+    "saved_field": "Data",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement discusses database design and system structure, which aligns more closely with System Architecture."
+  },
+  {
+    "input_text": "I think we should implement a queue to handle multiple Huddle messages at once, otherwise our API will get overwhelmed with concurrent requests.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The student is discussing handling concurrent requests to an API, which aligns more closely with API Creation than App Deployment."
+  },
+  {
+    "input_text": "Yeah, I'm good with that.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is too vague to clearly indicate Problem Solving; Teamwork is a better fit for agreeing to a task."
+  },
+  {
+    "input_text": "I worked on it today.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is too vague to assign a specific skill; Teamwork is a more reasonable default for a generic work-related statement."
+  },
+  {
+    "input_text": "Yeah, I worked on it yesterday.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is too vague to clearly indicate Problem Solving; Teamwork is a more plausible soft skill given the collaborative context implied by 'worked on it'."
+  },
+  {
+    "input_text": "I added the bot to the server's admin role so it can access all channels, including private ones.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "Assigning bot permissions and server configuration aligns more closely with API Creation than MCP Server."
+  },
+  {
+    "input_text": "I used linear regression to predict user engagement, but I had to normalize the data first because the features were on different scales.",
+    "saved_skill": "Mathematics",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Data Curation",
+    "suggested_field": "Data",
+    "note": "Normalizing features for a regression task is a data preparation/data curation activity, not a soft-skill math label."
+  },
+  {
+    "input_text": "I think we should use a physics engine for the animations, but it would add extra overhead to our rendering pipeline.",
+    "saved_skill": "Game Production",
+    "saved_field": "Production",
+    "suggested_skill": "Game Design",
+    "suggested_field": "Game Development",
+    "note": "The statement discusses technical decisions about physics and rendering in game development, which aligns more closely with Game Design."
+  },
+  {
+    "input_text": "I think our team lead should be able to assign tasks through Slack, but I'm not sure how to set up the permissions for that.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "Group Leadership",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is about team lead task assignment and permissions, which aligns with Group Leadership rather than App Deployment."
+  },
+  {
+    "input_text": "I think we can use GitHub Actions to automate our testing, but I'm not sure how it would integrate with our CI/CD pipeline.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "Workflow Building",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The student is discussing CI/CD pipeline automation, which aligns with Workflow Building in the AI field."
+  },
+  {
+    "input_text": "I think we should decouple our Huddle bot from the API so it can handle concurrent messages without crashing, but we'll need to refactor the code for error handling.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes architectural decisions about decoupling and refactoring for concurrency and error handling, which aligns more closely with System Architecture than MCP Server."
+  },
+  {
+    "input_text": "Yeah, I'm working on it.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Knowledge Articulation",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is too vague to clearly indicate Problem Solving; Knowledge Articulation is a better match for a brief verbal response."
+  },
+  {
+    "input_text": "Yeah, I think we should do that.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement reflects agreement with a group decision, which aligns more closely with Teamwork than Problem Solving."
+  },
+  {
+    "input_text": "I worked on it yesterday.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Problem Solving",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is too vague to confirm Problem Solving, but the field is plausible."
+  },
+  {
+    "input_text": "I think we can use Flask to handle user authentication, but I'm not sure how to integrate it with our existing API routes.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The statement discusses integrating Flask for authentication with API routes, which aligns more closely with API Creation than App Deployment."
+  },
+  {
+    "input_text": "I added a permission system to prevent unauthorized characters from joining the game, it's based on Unity's built-in role-based access control.",
+    "saved_skill": "App Development",
+    "saved_field": "Applications",
+    "suggested_skill": "Game Coding",
+    "suggested_field": "Game Development",
+    "note": "The statement describes implementing a permission system in Unity, which is game development, not general app development."
+  },
+  {
+    "input_text": "I'm working on it.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Problem Solving",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is too vague to confirm the skill label, but the field is correct."
+  },
+  {
+    "input_text": "I think we should decouple the model's data pipeline from the API requests to improve latency, but it might add extra overhead on the server-side.",
+    "saved_skill": "Model Training",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes architectural decisions about decoupling components and system design, which aligns with System Architecture rather than Model Training."
+  },
+  {
+    "input_text": "I think we should render the sprite animations on the GPU instead of the CPU, but it'll add extra overhead for texture management.",
+    "saved_skill": "Game Production",
+    "saved_field": "Production",
+    "suggested_skill": "Animation",
+    "suggested_field": "Game Development",
+    "note": "The statement discusses sprite animation rendering, which aligns with Animation in Game Development."
+  },
+  {
+    "input_text": "I think we can use a decision tree to classify the user input, but I'm not sure how to handle the edge cases.",
+    "saved_skill": "Model Training",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "Problem Solving",
+    "suggested_field": "Soft Skills",
+    "note": "The statement focuses on reasoning about edge cases in a decision tree approach, which aligns more closely with problem-solving than model training."
+  },
+  {
+    "input_text": "I added the bot to the private channel, so it can access the user data for the game leaderboard.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The statement describes integrating a bot to access data via an API, which aligns better with API Creation than MCP Server."
+  },
+  {
+    "input_text": "I think we can use GitHub to collaborate on our project, but I'm not sure how to set up permissions for everyone.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement describes collaborating on a project using GitHub, which aligns with teamwork, not app deployment."
+  },
+  {
+    "input_text": "I think we can use a queue to handle the chatbot's conversation flow, but I'm not sure how to implement it with our current message broker.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The student is discussing system design decisions about chatbot conversation flow and message broker integration, which aligns with System Architecture rather than MCP Server."
+  },
+  {
+    "input_text": "I think we should decouple the model's data pipeline from the web app's API to avoid overloading the server, but it might add latency to our predictions.",
+    "saved_skill": "Model Training",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes architectural decisions about decoupling systems, which aligns better with System Architecture."
+  },
+  {
+    "input_text": "I think we should refactor our Huddle bot to use a separate queue for each user, it'll make debugging way easier when multiple people are chatting at once.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes a software architecture decision about refactoring a bot to improve debugging, which aligns with System Architecture rather than MCP Server."
+  },
+  {
+    "input_text": "I think we can use the API to collect user data, but I'm not sure how to handle duplicates or if we need to store it locally.",
+    "saved_skill": "API Creation",
+    "saved_field": "Production",
+    "suggested_skill": "Data Collection",
+    "suggested_field": "Data",
+    "note": "The statement focuses on collecting user data and handling duplicates, which aligns with Data Collection rather than API Creation."
+  },
+  {
+    "input_text": "I think we can use the Natural Language Processing library to analyze sentiment, but I'm not sure how to integrate it with our existing codebase.",
+    "saved_skill": "Model Training",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement focuses on integrating an NLP library into an existing codebase, which aligns more closely with System Architecture than Model Training."
+  },
+  {
+    "input_text": "I think we should use a load balancer to distribute traffic between multiple instances, so even if one goes down, the other ones can still handle requests.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes designing a fault-tolerant system architecture, not deployment."
+  },
+  {
+    "input_text": "I'm working on it now.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Problem Solving",
+    "suggested_field": "Soft Skills",
+    "note": "Statement is too vague to confirm skill match."
+  },
+  {
+    "input_text": "I used sprite sheets to optimize the animation, it works because the images are smaller and load faster, which is important for smoother gameplay.",
+    "saved_skill": "Animation",
+    "saved_field": "Game Development",
+    "suggested_skill": "Animation",
+    "suggested_field": "Game Development",
+    "note": "The skill is correct but the field should be Game Development."
+  },
+  {
+    "input_text": "I think we can use the team's GitHub to collaborate on the project, but I'm not sure how to set up the permissions for each member.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is about collaborating with a team and managing permissions on GitHub, which aligns more with teamwork than app deployment."
+  },
+  {
+    "input_text": "I think we need to implement some sort of scoring system.",
+    "saved_skill": "Model Training",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "Game Design",
+    "suggested_field": "Game Development",
+    "note": "Implementing a scoring system is a game design task, not model training."
+  },
+  {
+    "input_text": "I think we should use a separate thread for Huddle captures, otherwise it'll slow down our main Slack message tracking process.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement discusses threading and system design decisions, which aligns with System Architecture rather than App Deployment."
+  },
+  {
+    "input_text": "I think we should use a Kalman filter to smooth out our sensor data, but it'll add latency \u2013 we have to weigh the benefits against the delay.",
+    "saved_skill": "Model Training",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "Robotics",
+    "suggested_field": "Robotics",
+    "note": "Kalman filter for sensor data is a robotics technique, not model training."
+  },
+  {
+    "input_text": "I think we should do it like, you know, last week.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Knowledge Articulation",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is about communication style, not problem-solving."
+  },
+  {
+    "input_text": "I think we should refactor our data pipeline to use the async API, but it might add extra latency if we're not careful with the batch size.",
+    "saved_skill": "API Creation",
+    "saved_field": "Production",
+    "suggested_skill": "Workflow Building",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes optimizing a data pipeline with async API usage and batch size considerations, which aligns more closely with workflow building in AI than API creation in production."
+  },
+  {
+    "input_text": "I think we can use the API to collect user data, but I'm not sure how to handle duplicate entries or what kind of storage we should use.",
+    "saved_skill": "API Creation",
+    "saved_field": "Production",
+    "suggested_skill": "Data Collection",
+    "suggested_field": "Data",
+    "note": "The statement focuses on collecting user data and handling duplicates, which aligns with Data Collection."
+  },
+  {
+    "input_text": "I chose to implement scene loading as separate threads because it reduced lag, but now we need to synchronize access to shared resources.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes architectural decisions about threading and resource synchronization, which aligns with System Architecture rather than App Deployment."
+  },
+  {
+    "input_text": "I think we should refactor our Huddle capture code to use a separate endpoint, since it's causing conflicts with our Slack message tracking API.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The statement describes refactoring code to use a separate endpoint, which is more aligned with API Creation than App Deployment."
+  },
+  {
+    "input_text": "I think we should use a load balancer to distribute traffic between our two EC2 instances, but it'll add latency if we're not careful with the routing rules.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement discusses load balancing and traffic distribution, which aligns with System Architecture rather than App Deployment."
+  },
+  {
+    "input_text": "I'm working on my project, yeah.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Problem Solving",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is too vague to assign a specific skill."
+  },
+  {
+    "input_text": "I think we should use a separate thread for Huddle messages to prevent game state corruption when handling multiple concurrent events.",
+    "saved_skill": "App Development",
+    "saved_field": "Applications",
+    "suggested_skill": "Game Coding",
+    "suggested_field": "Game Development",
+    "note": "The statement discusses game state and concurrent event handling, which aligns with Game Coding rather than App Development."
+  },
+  {
+    "input_text": "I think we can use GitHub to manage our project, but I'm not sure how to assign tasks to team members.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is about using GitHub for task assignment, which aligns with teamwork, not app deployment."
+  },
+  {
+    "input_text": "Yeah, I was thinking about it yesterday.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Knowledge Articulation",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is a casual reflection, which aligns better with Knowledge Articulation than Problem Solving."
+  },
+  {
+    "input_text": "I think we can use the API to share project updates, but I'm not sure how to handle conflicts or disagreements.",
+    "saved_skill": "API Creation",
+    "saved_field": "Production",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement focuses on handling disagreements in a team, not on building APIs."
+  },
+  {
+    "input_text": "I think we can use the API to collect user data, but I'm not sure how it handles sensitive information like passwords.",
+    "saved_skill": "API Creation",
+    "saved_field": "Production",
+    "suggested_skill": "Data Collection",
+    "suggested_field": "Data",
+    "note": "The statement focuses on collecting user data via an API, which aligns better with Data Collection in the Data field."
+  },
+  {
+    "input_text": "I think we should refactor our Huddle bot to use a separate queue for each channel, because if one channel gets overwhelmed it'll bring down the whole thing.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes architectural design decisions about system structure and scalability, which aligns with System Architecture rather than MCP Server."
+  },
+  {
+    "input_text": "I added the bot to the server's admin role so it can access all channels, but I also created a separate private channel for sensitive data where only authorized users have access.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The statement describes configuring bot permissions and channel access, which aligns with API Creation rather than MCP Server."
+  },
+  {
+    "input_text": "I added a try-except block to handle the error when fetching data from the API, because if it's down or returns a 404, our app crashes without it.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "App Development",
+    "suggested_field": "Applications",
+    "note": "The student is describing error handling during development, not deployment."
+  },
+  {
+    "input_text": "I think we should implement a separate thread for Huddle messages to avoid blocking the main queue, but it might add some latency.",
+    "saved_skill": "Web Development",
+    "saved_field": "Applications",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement discusses threading and system design, which aligns better with System Architecture."
+  },
+  {
+    "input_text": "I added an API key to the requests library so it can authenticate with the server, which makes sense because we're using HTTPS.",
+    "saved_skill": "API Creation",
+    "saved_field": "Production",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The student is using an API, not creating one; the skill should reflect usage/integration, but API Creation is the closest match in this field."
+  },
+  {
+    "input_text": "I think we should implement a retry mechanism for API calls to Huddle, but it might add latency to our real-time messaging system.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The statement discusses implementing a retry mechanism for API calls, which aligns with API Creation rather than App Deployment."
+  },
+  {
+    "input_text": "I moved the user authentication to a separate microservice because it's already handled by the auth server, which reduces latency and improves scalability.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes architectural decisions about microservices and scalability, which aligns more closely with System Architecture rather than App Deployment."
+  },
+  {
+    "input_text": "I think we should refactor the chatbot's decision tree to prioritize user intent over keyword matching, it'll reduce false positives but might increase latency.",
+    "saved_skill": "Model Training",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "Refactoring a chatbot's decision tree is a system architecture task, not model training."
+  },
+  {
+    "input_text": "I think we should refactor our Huddle integration to use a more efficient queue system, it'll reduce latency but might add some complexity.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement discusses improving system design and performance, which aligns more closely with System Architecture than App Deployment."
+  },
+  {
+    "input_text": "I was working on the server yesterday.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The statement is about server work, which aligns better with API Creation than MCP Server."
+  },
+  {
+    "input_text": "I think we can use Unity's animation system, but I'm not sure how to integrate it with our game's physics engine.",
+    "saved_skill": "Game Design",
+    "saved_field": "Game Development",
+    "suggested_skill": "Animation",
+    "suggested_field": "Game Development",
+    "note": "The statement focuses on using Unity's animation system, which aligns more closely with Animation than Game Design."
+  },
+  {
+    "input_text": "I think we can use GitHub to manage our project, but I'm not sure how to set up permissions for the team.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement describes collaboration and team coordination, not deployment."
+  },
+  {
+    "input_text": "I think we should decouple our model's data ingestion from the frontend UI, so if there's an issue with the API, it doesn't bring down the whole app.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement describes architectural decisions about separating components, which aligns with System Architecture."
+  },
+  {
+    "input_text": "I think we can use regression analysis to predict user engagement, but I'm not sure how to apply it to our web app's data.",
+    "saved_skill": "Data Curation",
+    "saved_field": "Data",
+    "suggested_skill": "Mathematics",
+    "suggested_field": "Soft Skills",
+    "note": "The statement focuses on applying regression analysis, which is a mathematical technique, rather than organizing or curating data."
+  },
+  {
+    "input_text": "I made sure to invite the bot into our private channel so it can access the sensitive data, just like we discussed during the team meeting.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement describes collaboration and communication within a team, not technical implementation of an MCP Server."
+  },
+  {
+    "input_text": "I added the bot to the server's role list so it can access all channels, including private ones.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "App Deployment",
+    "suggested_field": "Production",
+    "note": "The statement describes configuring a bot's permissions on a server, which aligns more closely with deployment and setup tasks."
+  },
+  {
+    "input_text": "I'm thinking we should use a separate data store for Huddle chat logs to reduce latency, but it might add extra overhead on the API side.",
+    "saved_skill": "App Deployment",
+    "saved_field": "Production",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement discusses architectural decisions about data storage and API design, which aligns with System Architecture rather than App Deployment."
+  },
+  {
+    "input_text": "I think we can use a queue to manage the model updates, but I'm not sure how to handle concurrent requests from multiple users.",
+    "saved_skill": "Model Training",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "System Architecture",
+    "suggested_field": "Artificial Intelligence",
+    "note": "The statement focuses on system design for handling concurrent requests, which aligns more closely with System Architecture than Model Training."
+  },
+  {
+    "input_text": "I added the bot to the private channel, but it still wasn't getting the messages. I realized we need to use the API key for webhooks to authenticate with Discord.",
+    "saved_skill": "MCP Server",
+    "saved_field": "Artificial Intelligence",
+    "suggested_skill": "API Creation",
+    "suggested_field": "Production",
+    "note": "The student is working with API keys and webhooks for Discord, which aligns with API Creation."
+  },
+  {
+    "input_text": "I think we should assign tasks based on skills, but I'm not sure how to make sure everyone knows what they're working on.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Teamwork",
+    "suggested_field": "Soft Skills",
+    "note": "The statement focuses on task assignment and team coordination, which aligns better with Teamwork than Problem Solving."
+  },
+  {
+    "input_text": "I'm working on it, yeah.",
+    "saved_skill": "Problem Solving",
+    "saved_field": "Soft Skills",
+    "suggested_skill": "Problem Solving",
+    "suggested_field": "Soft Skills",
+    "note": "The statement is too vague to confirm Problem Solving, but the skill and field are plausible."
+  }
+]

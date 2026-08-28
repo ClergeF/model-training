@@ -1,0 +1,10 @@
+.env
+
+# Downloaded transcript artifacts (regenerate with sync/clean scripts)
+data/transcripts/raw/*.json
+data/transcripts/cleaned/*.json
+data/transcripts/readable/*.txt
+data/transcripts/manifest.jsonl
+
+# Synthetic training data (regenerate with the dataset generator)
+data/training/*.jsonl
