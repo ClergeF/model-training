@@ -127,3 +127,21 @@ Topics are drawn from the real meeting subjects (2D/3D art, game design, game
 programming, AI, community engagement, student updates, project demos, technical
 help, program logistics, mentor feedback, casual check-ins). Generated meetings
 imitate the style of the 29 real meetings without copying them.
+
+---
+
+# Moment Detection Dataset Generator
+
+`generate_moment_detection_dataset.py` builds **short story-chunk inputs** and
+**separate Moment labels** for the Moment Detection model (after Story Chunking).
+
+- **Phase 1:** `--count` target valid inputs (`moment_input_00001`, …)
+- **Phase 2:** one label per input (spec v1.3 in `moment-detection/docs/`)
+- **GPU:** reuses `story_chunking.transformers_provider` (Colab A100, load-once)
+
+```bash
+python data-generation/generate_moment_detection_dataset.py --smoke-test --provider transformers
+python data-generation/generate_moment_detection_dataset.py --count 500 --phase all --provider transformers
+```
+
+See [`../moment-detection/README.md`](../moment-detection/README.md) for paths, resume behavior, and schema.
